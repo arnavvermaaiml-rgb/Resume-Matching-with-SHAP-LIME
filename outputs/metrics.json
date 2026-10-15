@@ -1,0 +1,50 @@
+{
+  "accuracy": 0.9066666666666666,
+  "precision": 0.875,
+  "recall": 0.875,
+  "f1_score": 0.875,
+  "roc_auc": 0.9555471124620061,
+  "confusion_matrix": [
+    [
+      87,
+      7
+    ],
+    [
+      7,
+      49
+    ]
+  ],
+  "n_train": 450,
+  "n_test": 150,
+  "cv_5fold": {
+    "accuracy": {
+      "mean": 0.9316666666666669,
+      "std": 0.013333333333333327
+    },
+    "precision": {
+      "mean": 0.9221364258544671,
+      "std": 0.04691533781584254
+    },
+    "recall": {
+      "mean": 0.8977777777777778,
+      "std": 0.04575835618216448
+    },
+    "f1": {
+      "mean": 0.9077755525913285,
+      "std": 0.017636133393379185
+    },
+    "roc_auc": {
+      "mean": 0.968237037037037,
+      "std": 0.012713010304462565
+    }
+  },
+  "coefficients": {
+    "required_skill_match": 4.4800980188337896,
+    "preferred_skill_match": 1.241318753009592,
+    "experience_match": 0.6776210569073507,
+    "education_match": 0.8119736218033385,
+    "technology_match": 1.1184324571031077,
+    "project_relevance": 2.063294182199403,
+    "semantic_similarity": 0.5971077066912567
+  }
+}

@@ -1,0 +1,19 @@
+Ananya Das
+ananya.das@example.com
+
+Profile
+Recent graduate passionate about data analysis.
+
+Technical Skills
+Python, Pandas, SQL, Excel, Statistics, Data Visualization
+
+Education
+B.Sc. in Mathematics, Presidency University, 2021 - 2024
+
+Academic Projects
+- Sales Dashboard: Built a Python and pandas analysis of retail sales with matplotlib charts.
+- Cricket Stats Study: Used statistics and SQL to analyse match outcomes.
+
+Experience
+Data Intern - Insightly, Jun 2024 - Aug 2024
+- Cleaned datasets with pandas and wrote SQL queries for weekly reports.

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "J01",
+    "title": "Data Scientist",
+    "required_skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "statistics",
+      "pandas"
+    ],
+    "preferred_skills": [
+      "deep learning",
+      "nlp",
+      "tableau"
+    ],
+    "min_experience": 3,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science, Statistics, or related field",
+    "technologies": [
+      "python",
+      "scikit-learn",
+      "sql",
+      "spark"
+    ],
+    "description_text": "We are seeking a Data Scientist to join our analytics team. The ideal candidate will have strong experience in python, machine learning, sql, statistics, and pandas to build predictive models and extract actionable insights from large datasets. Experience with deep learning, nlp, and tableau is a plus. Responsibilities include designing experiments, building and validating models, and communicating results to stakeholders. Requires a minimum of 3 years of relevant experience and a Bachelor's degree in Computer Science, Statistics, or a related field. The role involves close collaboration with engineering and product teams to deploy models into production pipelines built on spark and scikit-learn."
+  },
+  {
+    "id": "J02",
+    "title": "Backend Engineer",
+    "required_skills": [
+      "java",
+      "spring boot",
+      "rest apis",
+      "sql",
+      "microservices"
+    ],
+    "preferred_skills": [
+      "kafka",
+      "docker",
+      "kubernetes"
+    ],
+    "min_experience": 2,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "java",
+      "spring",
+      "postgresql",
+      "docker"
+    ],
+    "description_text": "We're hiring a Backend Engineer to design and maintain scalable services. You'll work daily with java, spring boot, rest apis, sql, and microservices architecture to power our core platform. Familiarity with kafka, docker, and kubernetes is a strong plus. You will own service reliability, participate in on-call rotations, and collaborate with frontend and product teams on API design. Requires at least 2 years of backend development experience and a Bachelor's degree in Computer Science or a related field. Our stack runs on java/spring with postgresql and docker-based deployments."
+  },
+  {
+    "id": "J03",
+    "title": "Frontend Developer",
+    "required_skills": [
+      "javascript",
+      "react",
+      "html",
+      "css",
+      "typescript"
+    ],
+    "preferred_skills": [
+      "next.js",
+      "redux",
+      "testing"
+    ],
+    "min_experience": 2,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "react",
+      "typescript",
+      "webpack"
+    ],
+    "description_text": "Join our product team as a Frontend Developer building delightful, performant user interfaces. Core requirements include javascript, react, html, css, and typescript. Experience with next.js, redux, and automated testing is preferred. You'll work closely with designers and backend engineers to ship features across web and mobile breakpoints, maintain our component library, and uphold accessibility standards. Requires at least 2 years of frontend experience and a Bachelor's degree in Computer Science or a related field. Our stack is built on react, typescript, and webpack."
+  },
+  {
+    "id": "J04",
+    "title": "DevOps Engineer",
+    "required_skills": [
+      "linux",
+      "ci/cd",
+      "docker",
+      "kubernetes",
+      "terraform"
+    ],
+    "preferred_skills": [
+      "aws",
+      "monitoring",
+      "ansible"
+    ],
+    "min_experience": 3,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws"
+    ],
+    "description_text": "We are looking for a DevOps Engineer to own our deployment and infrastructure automation. Required skills include linux administration, ci/cd pipeline design, docker, kubernetes, and terraform. Experience with aws, monitoring tooling, and ansible is preferred. You'll be responsible for infrastructure-as-code, release automation, and incident response. Requires at least 3 years of relevant experience and a Bachelor's degree in Computer Science or a related field. Our platform runs on docker and kubernetes, provisioned via terraform on aws."
+  },
+  {
+    "id": "J05",
+    "title": "Machine Learning Engineer",
+    "required_skills": [
+      "python",
+      "deep learning",
+      "pytorch",
+      "mlops",
+      "machine learning"
+    ],
+    "preferred_skills": [
+      "kubernetes",
+      "nlp",
+      "computer vision"
+    ],
+    "min_experience": 3,
+    "education_level": "master",
+    "education_field": "Computer Science / AI",
+    "education": "Master's in Computer Science, AI, or related field",
+    "technologies": [
+      "python",
+      "pytorch",
+      "docker",
+      "kubernetes"
+    ],
+    "description_text": "We are hiring a Machine Learning Engineer to take models from research to production. Required: python, deep learning, pytorch, mlops practices, and general machine learning fundamentals. Experience with kubernetes, nlp, or computer vision is a plus. You will build training and serving pipelines, monitor model performance in production, and collaborate with research scientists. Requires at least 3 years of relevant experience and a Master's degree in Computer Science, AI, or a related field. Our serving stack is built on pytorch, docker, and kubernetes."
+  },
+  {
+    "id": "J06",
+    "title": "Product Manager",
+    "required_skills": [
+      "product strategy",
+      "roadmapping",
+      "stakeholder management",
+      "agile",
+      "analytics"
+    ],
+    "preferred_skills": [
+      "sql",
+      "a/b testing",
+      "ux research"
+    ],
+    "min_experience": 4,
+    "education_level": "bachelor",
+    "education_field": "any field",
+    "education": "Bachelor's degree in any field; MBA preferred",
+    "technologies": [
+      "jira",
+      "sql",
+      "figma"
+    ],
+    "description_text": "We're looking for a Product Manager to drive product strategy and execution. You should be skilled in roadmapping, stakeholder management, agile delivery, and using analytics to guide decisions. Experience with sql, a/b testing, and ux research is a plus. You'll partner with engineering, design, and sales to define and ship high-impact features. Requires at least 4 years of product management experience and a Bachelor's degree in any field; an MBA is preferred. Our team runs on jira, sql-based reporting, and figma for design collaboration."
+  },
+  {
+    "id": "J07",
+    "title": "Cloud Solutions Architect",
+    "required_skills": [
+      "aws",
+      "cloud architecture",
+      "networking",
+      "security",
+      "terraform"
+    ],
+    "preferred_skills": [
+      "azure",
+      "gcp",
+      "cost optimization"
+    ],
+    "min_experience": 5,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "aws",
+      "terraform",
+      "kubernetes"
+    ],
+    "description_text": "We need a Cloud Solutions Architect to design secure, scalable cloud infrastructure. Required: deep aws expertise, cloud architecture design, networking, security best practices, and terraform. Experience with azure, gcp, or cost optimization initiatives is a plus. You'll lead architecture reviews, define infrastructure standards, and mentor engineering teams. Requires at least 5 years of relevant experience and a Bachelor's degree in Computer Science or a related field. Our infrastructure is provisioned with terraform across aws and kubernetes."
+  },
+  {
+    "id": "J08",
+    "title": "QA Automation Engineer",
+    "required_skills": [
+      "selenium",
+      "test automation",
+      "python",
+      "api testing",
+      "ci/cd"
+    ],
+    "preferred_skills": [
+      "performance testing",
+      "cypress",
+      "java"
+    ],
+    "min_experience": 2,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "selenium",
+      "pytest",
+      "jenkins"
+    ],
+    "description_text": "We are hiring a QA Automation Engineer to build and maintain our automated test suites. Required skills: selenium, test automation, python, api testing, and ci/cd integration. Experience with performance testing, cypress, or java is a plus. You'll design regression suites, integrate tests into our pipelines, and triage failures with engineering. Requires at least 2 years of relevant experience and a Bachelor's degree in Computer Science or a related field. Our testing stack uses selenium, pytest, and jenkins."
+  },
+  {
+    "id": "J09",
+    "title": "Data Engineer",
+    "required_skills": [
+      "python",
+      "sql",
+      "etl",
+      "spark",
+      "data pipelines"
+    ],
+    "preferred_skills": [
+      "airflow",
+      "kafka",
+      "aws"
+    ],
+    "min_experience": 3,
+    "education_level": "bachelor",
+    "education_field": "Computer Science",
+    "education": "Bachelor's in Computer Science or related field",
+    "technologies": [
+      "spark",
+      "airflow",
+      "sql",
+      "aws"
+    ],
+    "description_text": "We're looking for a Data Engineer to build reliable data pipelines at scale. Required: python, sql, etl development, spark, and general data pipeline design. Experience with airflow, kafka, or aws is a plus. You'll own data ingestion, transformation, and quality monitoring for our analytics and ML platforms. Requires at least 3 years of relevant experience and a Bachelor's degree in Computer Science or a related field. Our pipelines run on spark and airflow, deployed on aws."
+  },
+  {
+    "id": "J10",
+    "title": "UX Designer",
+    "required_skills": [
+      "figma",
+      "user research",
+      "wireframing",
+      "prototyping",
+      "ux design"
+    ],
+    "preferred_skills": [
+      "design systems",
+      "usability testing",
+      "html/css"
+    ],
+    "min_experience": 2,
+    "education_level": "bachelor",
+    "education_field": "Design / HCI",
+    "education": "Bachelor's in Design, HCI, or related field",
+    "technologies": [
+      "figma",
+      "adobe xd"
+    ],
+    "description_text": "We are hiring a UX Designer to shape intuitive, delightful product experiences. Required skills: figma, user research, wireframing, prototyping, and core ux design practice. Experience with design systems, usability testing, or html/css is a plus. You'll run research studies, produce wireframes and prototypes, and partner closely with product and engineering. Requires at least 2 years of relevant experience and a Bachelor's degree in Design, HCI, or a related field. We design primarily in figma and adobe xd."
+  }
+]

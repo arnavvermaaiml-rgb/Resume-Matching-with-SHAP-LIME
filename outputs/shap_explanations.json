@@ -1,0 +1,3568 @@
+[
+  {
+    "row_index": 0,
+    "match_probability": 0.0342,
+    "positive_factors": [
+      "technology_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0425
+    }
+  },
+  {
+    "row_index": 1,
+    "match_probability": 0.0371,
+    "positive_factors": [
+      "project_relevance",
+      "education_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "technology_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.415,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": -0.0458
+    }
+  },
+  {
+    "row_index": 2,
+    "match_probability": 0.0152,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "project_relevance",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.3698,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0873
+    }
+  },
+  {
+    "row_index": 3,
+    "match_probability": 0.0235,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.081
+    }
+  },
+  {
+    "row_index": 4,
+    "match_probability": 0.3755,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": 0.4405,
+      "project_relevance": 1.2586,
+      "semantic_similarity": -0.0068
+    }
+  },
+  {
+    "row_index": 5,
+    "match_probability": 0.0095,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0804
+    }
+  },
+  {
+    "row_index": 6,
+    "match_probability": 0.9161,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0354
+    }
+  },
+  {
+    "row_index": 7,
+    "match_probability": 0.0135,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.1411,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0352
+    }
+  },
+  {
+    "row_index": 8,
+    "match_probability": 0.9865,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "semantic_similarity",
+      "education_match"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.149
+    }
+  },
+  {
+    "row_index": 9,
+    "match_probability": 0.0391,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0686
+    }
+  },
+  {
+    "row_index": 10,
+    "match_probability": 0.0228,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0828
+    }
+  },
+  {
+    "row_index": 11,
+    "match_probability": 0.0232,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.415,
+      "education_match": 0.1296,
+      "technology_match": -0.1187,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0492
+    }
+  },
+  {
+    "row_index": 12,
+    "match_probability": 0.0184,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0767
+    }
+  },
+  {
+    "row_index": 13,
+    "match_probability": 0.0201,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.071
+    }
+  },
+  {
+    "row_index": 14,
+    "match_probability": 0.0166,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0659
+    }
+  },
+  {
+    "row_index": 15,
+    "match_probability": 0.1251,
+    "positive_factors": [
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.415,
+      "education_match": 0.1296,
+      "technology_match": -0.1187,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0477
+    }
+  },
+  {
+    "row_index": 16,
+    "match_probability": 0.992,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0672
+    }
+  },
+  {
+    "row_index": 17,
+    "match_probability": 0.6928,
+    "positive_factors": [
+      "preferred_skill_match",
+      "technology_match",
+      "project_relevance",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0481
+    }
+  },
+  {
+    "row_index": 18,
+    "match_probability": 0.9825,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0685
+    }
+  },
+  {
+    "row_index": 19,
+    "match_probability": 0.0114,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.5053,
+      "education_match": -0.2494,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.026
+    }
+  },
+  {
+    "row_index": 20,
+    "match_probability": 0.6363,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0053
+    }
+  },
+  {
+    "row_index": 21,
+    "match_probability": 0.0132,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0844
+    }
+  },
+  {
+    "row_index": 22,
+    "match_probability": 0.0571,
+    "positive_factors": [
+      "preferred_skill_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "experience_match",
+      "project_relevance",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.0987,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.0215
+    }
+  },
+  {
+    "row_index": 23,
+    "match_probability": 0.0189,
+    "positive_factors": [
+      "technology_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.6408,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0412
+    }
+  },
+  {
+    "row_index": 24,
+    "match_probability": 0.9452,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.1109
+    }
+  },
+  {
+    "row_index": 25,
+    "match_probability": 0.0058,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0933
+    }
+  },
+  {
+    "row_index": 26,
+    "match_probability": 0.0386,
+    "positive_factors": [
+      "preferred_skill_match",
+      "experience_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0631
+    }
+  },
+  {
+    "row_index": 27,
+    "match_probability": 0.1861,
+    "positive_factors": [
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance",
+      "education_match",
+      "technology_match",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.6408,
+      "education_match": -0.2494,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0037
+    }
+  },
+  {
+    "row_index": 28,
+    "match_probability": 0.0238,
+    "positive_factors": [
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "education_match",
+      "experience_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.4591,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0357
+    }
+  },
+  {
+    "row_index": 29,
+    "match_probability": 0.9825,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.1723,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0915
+    }
+  },
+  {
+    "row_index": 30,
+    "match_probability": 0.0916,
+    "positive_factors": [
+      "experience_match",
+      "project_relevance"
+    ],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2627,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": -0.08
+    }
+  },
+  {
+    "row_index": 31,
+    "match_probability": 0.0192,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "technology_match",
+      "education_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.1187,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0563
+    }
+  },
+  {
+    "row_index": 32,
+    "match_probability": 0.0296,
+    "positive_factors": [
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.1952,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0735
+    }
+  },
+  {
+    "row_index": 33,
+    "match_probability": 0.0115,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0856
+    }
+  },
+  {
+    "row_index": 34,
+    "match_probability": 0.3192,
+    "positive_factors": [
+      "technology_match",
+      "education_match",
+      "required_skill_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0055
+    }
+  },
+  {
+    "row_index": 35,
+    "match_probability": 0.9926,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.2627,
+      "education_match": -0.0328,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1315
+    }
+  },
+  {
+    "row_index": 36,
+    "match_probability": 0.086,
+    "positive_factors": [
+      "experience_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0814
+    }
+  },
+  {
+    "row_index": 37,
+    "match_probability": 0.0075,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.415,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0702
+    }
+  },
+  {
+    "row_index": 38,
+    "match_probability": 0.1878,
+    "positive_factors": [
+      "technology_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance",
+      "education_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": 0.7201,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0102
+    }
+  },
+  {
+    "row_index": 39,
+    "match_probability": 0.0295,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0306
+    }
+  },
+  {
+    "row_index": 40,
+    "match_probability": 0.0644,
+    "positive_factors": [
+      "preferred_skill_match",
+      "technology_match",
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0439
+    }
+  },
+  {
+    "row_index": 41,
+    "match_probability": 0.0063,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.2342,
+      "education_match": -0.3847,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0693
+    }
+  },
+  {
+    "row_index": 42,
+    "match_probability": 0.3703,
+    "positive_factors": [
+      "project_relevance",
+      "preferred_skill_match",
+      "education_match",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "experience_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0176
+    }
+  },
+  {
+    "row_index": 43,
+    "match_probability": 0.0135,
+    "positive_factors": [
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0847
+    }
+  },
+  {
+    "row_index": 44,
+    "match_probability": 0.0132,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0839
+    }
+  },
+  {
+    "row_index": 45,
+    "match_probability": 0.0144,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0728
+    }
+  },
+  {
+    "row_index": 46,
+    "match_probability": 0.7289,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "preferred_skill_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "project_relevance",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.189,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.0977
+    }
+  },
+  {
+    "row_index": 47,
+    "match_probability": 0.9616,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0226
+    }
+  },
+  {
+    "row_index": 48,
+    "match_probability": 0.0136,
+    "positive_factors": [
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0758
+    }
+  },
+  {
+    "row_index": 49,
+    "match_probability": 0.9211,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0885
+    }
+  },
+  {
+    "row_index": 50,
+    "match_probability": 0.0088,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.0734,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0904
+    }
+  },
+  {
+    "row_index": 51,
+    "match_probability": 0.0131,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "technology_match",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.415,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0759
+    }
+  },
+  {
+    "row_index": 52,
+    "match_probability": 0.0146,
+    "positive_factors": [
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "project_relevance",
+      "experience_match",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.3475,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.0058
+    }
+  },
+  {
+    "row_index": 53,
+    "match_probability": 0.0157,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.3847,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0874
+    }
+  },
+  {
+    "row_index": 54,
+    "match_probability": 0.7156,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": -0.3475,
+      "technology_match": 0.7201,
+      "project_relevance": -0.8047,
+      "semantic_similarity": 0.006
+    }
+  },
+  {
+    "row_index": 55,
+    "match_probability": 0.074,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0816
+    }
+  },
+  {
+    "row_index": 56,
+    "match_probability": 0.5305,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.2062,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.039
+    }
+  },
+  {
+    "row_index": 57,
+    "match_probability": 0.0134,
+    "positive_factors": [
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0916
+    }
+  },
+  {
+    "row_index": 58,
+    "match_probability": 0.8162,
+    "positive_factors": [
+      "project_relevance",
+      "required_skill_match",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.0255,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1093
+    }
+  },
+  {
+    "row_index": 59,
+    "match_probability": 0.9444,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.1321
+    }
+  },
+  {
+    "row_index": 60,
+    "match_probability": 0.0202,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0232
+    }
+  },
+  {
+    "row_index": 61,
+    "match_probability": 0.0251,
+    "positive_factors": [
+      "technology_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "preferred_skill_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0255
+    }
+  },
+  {
+    "row_index": 62,
+    "match_probability": 0.3835,
+    "positive_factors": [
+      "project_relevance",
+      "experience_match",
+      "technology_match",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": 0.1609,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0299
+    }
+  },
+  {
+    "row_index": 63,
+    "match_probability": 0.626,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "project_relevance",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.7889,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.069
+    }
+  },
+  {
+    "row_index": 64,
+    "match_probability": 0.9517,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": -0.8047,
+      "semantic_similarity": 0.007
+    }
+  },
+  {
+    "row_index": 65,
+    "match_probability": 0.013,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0984
+    }
+  },
+  {
+    "row_index": 66,
+    "match_probability": 0.092,
+    "positive_factors": [
+      "experience_match",
+      "project_relevance",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2494,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0274
+    }
+  },
+  {
+    "row_index": 67,
+    "match_probability": 0.9236,
+    "positive_factors": [
+      "project_relevance",
+      "required_skill_match",
+      "preferred_skill_match",
+      "technology_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.0368,
+      "education_match": -0.0734,
+      "technology_match": 0.4405,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0687
+    }
+  },
+  {
+    "row_index": 68,
+    "match_probability": 0.0233,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0625
+    }
+  },
+  {
+    "row_index": 69,
+    "match_probability": 0.7329,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": -0.8047,
+      "semantic_similarity": 0.0387
+    }
+  },
+  {
+    "row_index": 70,
+    "match_probability": 0.015,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0389
+    }
+  },
+  {
+    "row_index": 71,
+    "match_probability": 0.0618,
+    "positive_factors": [
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.2342,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0368
+    }
+  },
+  {
+    "row_index": 72,
+    "match_probability": 0.4414,
+    "positive_factors": [
+      "technology_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance",
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": 0.7201,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0161
+    }
+  },
+  {
+    "row_index": 73,
+    "match_probability": 0.0236,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0752
+    }
+  },
+  {
+    "row_index": 74,
+    "match_probability": 0.7236,
+    "positive_factors": [
+      "project_relevance",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0684
+    }
+  },
+  {
+    "row_index": 75,
+    "match_probability": 0.0386,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "project_relevance",
+      "education_match",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0847
+    }
+  },
+  {
+    "row_index": 76,
+    "match_probability": 0.9943,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1223
+    }
+  },
+  {
+    "row_index": 77,
+    "match_probability": 0.9897,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0836
+    }
+  },
+  {
+    "row_index": 78,
+    "match_probability": 0.0097,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0772
+    }
+  },
+  {
+    "row_index": 79,
+    "match_probability": 0.0344,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "semantic_similarity",
+      "experience_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.061
+    }
+  },
+  {
+    "row_index": 80,
+    "match_probability": 0.0095,
+    "positive_factors": [],
+    "negative_factors": [
+      "education_match",
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0492
+    }
+  },
+  {
+    "row_index": 81,
+    "match_probability": 0.4334,
+    "positive_factors": [
+      "project_relevance",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.2342,
+      "education_match": -0.3847,
+      "technology_match": -0.0255,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0804
+    }
+  },
+  {
+    "row_index": 82,
+    "match_probability": 0.4062,
+    "positive_factors": [
+      "technology_match",
+      "experience_match",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "project_relevance",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.0328,
+      "technology_match": 0.7201,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.0507
+    }
+  },
+  {
+    "row_index": 83,
+    "match_probability": 0.3226,
+    "positive_factors": [
+      "project_relevance",
+      "preferred_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "experience_match",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.189,
+      "education_match": -0.0734,
+      "technology_match": -0.3983,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1048
+    }
+  },
+  {
+    "row_index": 84,
+    "match_probability": 0.1222,
+    "positive_factors": [
+      "experience_match",
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": -0.1187,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0649
+    }
+  },
+  {
+    "row_index": 85,
+    "match_probability": 0.715,
+    "positive_factors": [
+      "required_skill_match",
+      "experience_match",
+      "project_relevance",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "education_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": -0.1411,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0271
+    }
+  },
+  {
+    "row_index": 86,
+    "match_probability": 0.7475,
+    "positive_factors": [
+      "project_relevance",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "required_skill_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "education_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.0368,
+      "education_match": -0.0734,
+      "technology_match": -0.1187,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1166
+    }
+  },
+  {
+    "row_index": 87,
+    "match_probability": 0.9868,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0659
+    }
+  },
+  {
+    "row_index": 88,
+    "match_probability": 0.8086,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0497
+    }
+  },
+  {
+    "row_index": 89,
+    "match_probability": 0.9554,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": -0.189,
+      "education_match": 0.1296,
+      "technology_match": -0.1187,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.1189
+    }
+  },
+  {
+    "row_index": 90,
+    "match_probability": 0.9732,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3079,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0676
+    }
+  },
+  {
+    "row_index": 91,
+    "match_probability": 0.5087,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "education_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.0734,
+      "technology_match": -0.1187,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0294
+    }
+  },
+  {
+    "row_index": 92,
+    "match_probability": 0.1454,
+    "positive_factors": [
+      "preferred_skill_match",
+      "education_match",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "project_relevance",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.022
+    }
+  },
+  {
+    "row_index": 93,
+    "match_probability": 0.1841,
+    "positive_factors": [
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.3698,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0641
+    }
+  },
+  {
+    "row_index": 94,
+    "match_probability": 0.5761,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "education_match",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0053
+    }
+  },
+  {
+    "row_index": 95,
+    "match_probability": 0.3732,
+    "positive_factors": [
+      "project_relevance",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "education_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.0328,
+      "technology_match": -0.0255,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.103
+    }
+  },
+  {
+    "row_index": 96,
+    "match_probability": 0.9847,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0992
+    }
+  },
+  {
+    "row_index": 97,
+    "match_probability": 0.5336,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "education_match",
+      "experience_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": -0.2358,
+      "technology_match": -0.0255,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.055
+    }
+  },
+  {
+    "row_index": 98,
+    "match_probability": 0.0459,
+    "positive_factors": [
+      "experience_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0642
+    }
+  },
+  {
+    "row_index": 99,
+    "match_probability": 0.1537,
+    "positive_factors": [
+      "technology_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "education_match",
+      "experience_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.415,
+      "education_match": -0.2358,
+      "technology_match": 0.7201,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0079
+    }
+  },
+  {
+    "row_index": 100,
+    "match_probability": 0.7251,
+    "positive_factors": [
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0038
+    }
+  },
+  {
+    "row_index": 101,
+    "match_probability": 0.0492,
+    "positive_factors": [
+      "technology_match",
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0025
+    }
+  },
+  {
+    "row_index": 102,
+    "match_probability": 0.0961,
+    "positive_factors": [
+      "project_relevance",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "education_match",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": -0.0121
+    }
+  },
+  {
+    "row_index": 103,
+    "match_probability": 0.4344,
+    "positive_factors": [
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": 0.5709,
+      "semantic_similarity": -0.0278
+    }
+  },
+  {
+    "row_index": 104,
+    "match_probability": 0.979,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "experience_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0508
+    }
+  },
+  {
+    "row_index": 105,
+    "match_probability": 0.8526,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.2627,
+      "education_match": -0.0734,
+      "technology_match": 0.7201,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0066
+    }
+  },
+  {
+    "row_index": 106,
+    "match_probability": 0.9659,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "technology_match",
+      "project_relevance",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": -0.0328,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0516
+    }
+  },
+  {
+    "row_index": 107,
+    "match_probability": 0.015,
+    "positive_factors": [],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "project_relevance",
+      "education_match",
+      "technology_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.6408,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0396
+    }
+  },
+  {
+    "row_index": 108,
+    "match_probability": 0.0956,
+    "positive_factors": [
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "education_match",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.189,
+      "education_match": -0.1411,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0261
+    }
+  },
+  {
+    "row_index": 109,
+    "match_probability": 0.1161,
+    "positive_factors": [
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0649
+    }
+  },
+  {
+    "row_index": 110,
+    "match_probability": 0.9821,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match",
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 1.2586,
+      "semantic_similarity": -0.0018
+    }
+  },
+  {
+    "row_index": 111,
+    "match_probability": 0.1171,
+    "positive_factors": [
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "experience_match",
+      "technology_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.2342,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0016
+    }
+  },
+  {
+    "row_index": 112,
+    "match_probability": 0.009,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.3698,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0903
+    }
+  },
+  {
+    "row_index": 113,
+    "match_probability": 0.5735,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "education_match",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0236
+    }
+  },
+  {
+    "row_index": 114,
+    "match_probability": 0.0072,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.2342,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0914
+    }
+  },
+  {
+    "row_index": 115,
+    "match_probability": 0.9909,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0643
+    }
+  },
+  {
+    "row_index": 116,
+    "match_probability": 0.9824,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0838
+    }
+  },
+  {
+    "row_index": 117,
+    "match_probability": 0.876,
+    "positive_factors": [
+      "required_skill_match",
+      "technology_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.082
+    }
+  },
+  {
+    "row_index": 118,
+    "match_probability": 0.0774,
+    "positive_factors": [
+      "preferred_skill_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0307
+    }
+  },
+  {
+    "row_index": 119,
+    "match_probability": 0.0483,
+    "positive_factors": [
+      "project_relevance",
+      "education_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match",
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.1326,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": 0.227,
+      "semantic_similarity": -0.0523
+    }
+  },
+  {
+    "row_index": 120,
+    "match_probability": 0.4701,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "experience_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.189,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0991
+    }
+  },
+  {
+    "row_index": 121,
+    "match_probability": 0.0392,
+    "positive_factors": [
+      "preferred_skill_match",
+      "technology_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": 0.3752,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0422
+    }
+  },
+  {
+    "row_index": 122,
+    "match_probability": 0.0455,
+    "positive_factors": [
+      "technology_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "experience_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": 0.4405,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0259
+    }
+  },
+  {
+    "row_index": 123,
+    "match_probability": 0.9058,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "technology_match",
+      "project_relevance",
+      "experience_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": 0.7201,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0718
+    }
+  },
+  {
+    "row_index": 124,
+    "match_probability": 0.8266,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": -0.8047,
+      "semantic_similarity": 0.043
+    }
+  },
+  {
+    "row_index": 125,
+    "match_probability": 0.9062,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "preferred_skill_match",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.415,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0964
+    }
+  },
+  {
+    "row_index": 126,
+    "match_probability": 0.026,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.3756,
+      "education_match": -0.2358,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0814
+    }
+  },
+  {
+    "row_index": 127,
+    "match_probability": 0.191,
+    "positive_factors": [
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "education_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "experience_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.302,
+      "education_match": -0.0328,
+      "technology_match": -0.0255,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.0037
+    }
+  },
+  {
+    "row_index": 128,
+    "match_probability": 0.8341,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 1.8816,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0732
+    }
+  },
+  {
+    "row_index": 129,
+    "match_probability": 0.9903,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.1152
+    }
+  },
+  {
+    "row_index": 130,
+    "match_probability": 0.4115,
+    "positive_factors": [
+      "project_relevance",
+      "experience_match",
+      "required_skill_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "preferred_skill_match",
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0893
+    }
+  },
+  {
+    "row_index": 131,
+    "match_probability": 0.84,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "experience_match",
+      "semantic_similarity",
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.137
+    }
+  },
+  {
+    "row_index": 132,
+    "match_probability": 0.8496,
+    "positive_factors": [
+      "project_relevance",
+      "required_skill_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0595
+    }
+  },
+  {
+    "row_index": 133,
+    "match_probability": 0.9894,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": 0.1609,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0612
+    }
+  },
+  {
+    "row_index": 134,
+    "match_probability": 0.0222,
+    "positive_factors": [
+      "experience_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": -0.1187,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0868
+    }
+  },
+  {
+    "row_index": 135,
+    "match_probability": 0.6206,
+    "positive_factors": [
+      "required_skill_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "preferred_skill_match",
+      "experience_match",
+      "technology_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.1326,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0275
+    }
+  },
+  {
+    "row_index": 136,
+    "match_probability": 0.0376,
+    "positive_factors": [
+      "experience_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "technology_match",
+      "education_match",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2627,
+      "education_match": -0.2358,
+      "technology_match": -0.1187,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0747
+    }
+  },
+  {
+    "row_index": 137,
+    "match_probability": 0.0129,
+    "positive_factors": [],
+    "negative_factors": [
+      "semantic_similarity",
+      "education_match",
+      "technology_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.6408,
+      "education_match": -0.1411,
+      "technology_match": -0.3983,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0825
+    }
+  },
+  {
+    "row_index": 138,
+    "match_probability": 0.235,
+    "positive_factors": [
+      "required_skill_match",
+      "education_match",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0364
+    }
+  },
+  {
+    "row_index": 139,
+    "match_probability": 0.0236,
+    "positive_factors": [
+      "experience_match",
+      "education_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "semantic_similarity",
+      "preferred_skill_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2062,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0613
+    }
+  },
+  {
+    "row_index": 140,
+    "match_probability": 0.0219,
+    "positive_factors": [
+      "education_match"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.302,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.0404
+    }
+  },
+  {
+    "row_index": 141,
+    "match_probability": 0.6678,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "project_relevance"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.3079,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": -0.117,
+      "semantic_similarity": 0.056
+    }
+  },
+  {
+    "row_index": 142,
+    "match_probability": 0.0315,
+    "positive_factors": [
+      "project_relevance",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "education_match",
+      "technology_match",
+      "experience_match",
+      "preferred_skill_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -1.7024,
+      "preferred_skill_match": -0.4524,
+      "experience_match": -0.415,
+      "education_match": -0.0328,
+      "technology_match": -0.3983,
+      "project_relevance": 0.5709,
+      "semantic_similarity": 0.0174
+    }
+  },
+  {
+    "row_index": 143,
+    "match_probability": 0.2905,
+    "positive_factors": [
+      "preferred_skill_match",
+      "project_relevance",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.1723,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0481
+    }
+  },
+  {
+    "row_index": 144,
+    "match_probability": 0.8226,
+    "positive_factors": [
+      "required_skill_match",
+      "preferred_skill_match",
+      "experience_match",
+      "project_relevance",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "technology_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.9856,
+      "preferred_skill_match": 0.7889,
+      "experience_match": 0.3756,
+      "education_match": 0.1296,
+      "technology_match": -0.0255,
+      "project_relevance": 0.227,
+      "semantic_similarity": 0.0666
+    }
+  },
+  {
+    "row_index": 145,
+    "match_probability": 0.038,
+    "positive_factors": [
+      "technology_match"
+    ],
+    "negative_factors": [
+      "education_match",
+      "preferred_skill_match",
+      "semantic_similarity",
+      "experience_match",
+      "project_relevance",
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": -0.0387,
+      "experience_match": -0.6408,
+      "education_match": -0.0328,
+      "technology_match": 0.1609,
+      "project_relevance": -0.8047,
+      "semantic_similarity": -0.055
+    }
+  },
+  {
+    "row_index": 146,
+    "match_probability": 0.1812,
+    "positive_factors": [
+      "experience_match",
+      "education_match",
+      "required_skill_match"
+    ],
+    "negative_factors": [
+      "semantic_similarity",
+      "project_relevance",
+      "technology_match",
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.4524,
+      "experience_match": 0.2627,
+      "education_match": 0.1296,
+      "technology_match": -0.3983,
+      "project_relevance": -0.117,
+      "semantic_similarity": -0.009
+    }
+  },
+  {
+    "row_index": 147,
+    "match_probability": 0.9844,
+    "positive_factors": [
+      "required_skill_match",
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [],
+    "feature_contributions": {
+      "required_skill_match": 2.7777,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.1723,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0983
+    }
+  },
+  {
+    "row_index": 148,
+    "match_probability": 0.6302,
+    "positive_factors": [
+      "project_relevance",
+      "preferred_skill_match",
+      "technology_match",
+      "experience_match",
+      "education_match",
+      "semantic_similarity"
+    ],
+    "negative_factors": [
+      "required_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": -0.8064,
+      "preferred_skill_match": 0.3752,
+      "experience_match": 0.2062,
+      "education_match": 0.1296,
+      "technology_match": 0.3474,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0357
+    }
+  },
+  {
+    "row_index": 149,
+    "match_probability": 0.7756,
+    "positive_factors": [
+      "project_relevance",
+      "technology_match",
+      "education_match",
+      "required_skill_match",
+      "semantic_similarity",
+      "experience_match"
+    ],
+    "negative_factors": [
+      "preferred_skill_match"
+    ],
+    "feature_contributions": {
+      "required_skill_match": 0.0896,
+      "preferred_skill_match": -0.0387,
+      "experience_match": 0.0368,
+      "education_match": 0.1296,
+      "technology_match": 0.7201,
+      "project_relevance": 1.2586,
+      "semantic_similarity": 0.0575
+    }
+  }
+]

@@ -1,0 +1,2873 @@
+[
+  {
+    "id": "R0000",
+    "job_id": "J01",
+    "tier": "weak",
+    "name": "Ava Patel",
+    "skills": [
+      "python"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Hospitality Management",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Ava Patel is a Data Scientist professional with 1 years of experience, holding a Associate's in Hospitality Management. Core skills include python. Hands-on experience with standard office tooling. Recent work: Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0001",
+    "job_id": "J01",
+    "tier": "strong",
+    "name": "Ava Kim",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "statistics",
+      "pandas",
+      "deep learning",
+      "nlp"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "spark",
+      "python",
+      "scikit-learn"
+    ],
+    "projects": [
+      {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%."
+      },
+      {
+        "title": "Sales Forecasting Pipeline",
+        "description": "Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job."
+      },
+      {
+        "title": "A/B Test Analysis Framework",
+        "description": "Created a reusable statistics framework in python for analyzing A/B test results across product teams."
+      }
+    ],
+    "resume_text": "Ava Kim brings 5 years of experience relevant to Data Scientist roles, with a Bachelor's in Computer Science. Technical strengths span python, machine learning, sql, statistics, pandas, deep learning, nlp, alongside practical exposure to spark, python, scikit-learn. Led \"Customer Churn Prediction\": Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%. Led \"Sales Forecasting Pipeline\": Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job. Led \"A/B Test Analysis Framework\": Created a reusable statistics framework in python for analyzing A/B test results across product teams. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0002",
+    "job_id": "J01",
+    "tier": "strong",
+    "name": "Ava Garcia",
+    "skills": [
+      "statistics",
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "tableau",
+      "deep learning"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "scikit-learn",
+      "spark",
+      "python"
+    ],
+    "projects": [
+      {
+        "title": "Sales Forecasting Pipeline",
+        "description": "Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job."
+      },
+      {
+        "title": "A/B Test Analysis Framework",
+        "description": "Created a reusable statistics framework in python for analyzing A/B test results across product teams."
+      }
+    ],
+    "resume_text": "With 4 years in the field and a Bachelor's in Computer Science, Ava Garcia has developed expertise in statistics, python, sql, machine learning, pandas, tableau, deep learning. Tooling experience includes scikit-learn, spark, python. Led \"Sales Forecasting Pipeline\": Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job. Led \"A/B Test Analysis Framework\": Created a reusable statistics framework in python for analyzing A/B test results across product teams. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0003",
+    "job_id": "J01",
+    "tier": "weak",
+    "name": "Ava Chen",
+    "skills": [
+      "sql"
+    ],
+    "experience_years": 0,
+    "education": "Associate's in History",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Ava Chen (Associate's in History) has spent 0 years building skills in sql, complemented by familiarity with standard office tooling. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0004",
+    "job_id": "J01",
+    "tier": "medium",
+    "name": "Ava Okafor",
+    "skills": [
+      "sql",
+      "machine learning",
+      "pandas"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "python",
+      "spark"
+    ],
+    "projects": [
+      {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Ava Okafor is a Data Scientist professional with 2 years of experience, holding a Associate's in Computer Science. Core skills include sql, machine learning, pandas. Hands-on experience with python, spark. Recent work: Led \"Customer Churn Prediction\": Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0005",
+    "job_id": "J01",
+    "tier": "medium",
+    "name": "Ava Nguyen",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "nlp"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "spark",
+      "scikit-learn"
+    ],
+    "projects": [
+      {
+        "title": "A/B Test Analysis Framework",
+        "description": "Created a reusable statistics framework in python for analyzing A/B test results across product teams."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Ava Nguyen brings 2 years of experience relevant to Data Scientist roles, with a Associate's in Computer Science. Technical strengths span python, machine learning, sql, nlp, alongside practical exposure to spark, scikit-learn. Led \"A/B Test Analysis Framework\": Created a reusable statistics framework in python for analyzing A/B test results across product teams. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0006",
+    "job_id": "J01",
+    "tier": "weak",
+    "name": "Ava Rossi",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Bachelor's in Business Administration",
+    "technologies": [
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Bachelor's in Business Administration, Ava Rossi has developed expertise in general professional and organizational skills. Tooling experience includes sql. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0007",
+    "job_id": "J01",
+    "tier": "medium",
+    "name": "Ava Johnson",
+    "skills": [
+      "python",
+      "pandas",
+      "statistics"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "spark",
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%."
+      },
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "Ava Johnson (Associate's in Computer Science) has spent 2 years building skills in python, pandas, statistics, complemented by familiarity with spark, sql. Led \"Customer Churn Prediction\": Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0008",
+    "job_id": "J01",
+    "tier": "strong",
+    "name": "Ava Muller",
+    "skills": [
+      "statistics",
+      "sql",
+      "pandas",
+      "python",
+      "deep learning",
+      "nlp"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "sql",
+      "python",
+      "scikit-learn",
+      "spark"
+    ],
+    "projects": [
+      {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%."
+      },
+      {
+        "title": "Sales Forecasting Pipeline",
+        "description": "Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job."
+      },
+      {
+        "title": "A/B Test Analysis Framework",
+        "description": "Created a reusable statistics framework in python for analyzing A/B test results across product teams."
+      }
+    ],
+    "resume_text": "Ava Muller is a Data Scientist professional with 4 years of experience, holding a Bachelor's in Computer Science. Core skills include statistics, sql, pandas, python, deep learning, nlp. Hands-on experience with sql, python, scikit-learn, spark. Recent work: Led \"Customer Churn Prediction\": Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%. Led \"Sales Forecasting Pipeline\": Developed a statistics-based sales forecasting pipeline using sql and python, feeding a spark-based batch job. Led \"A/B Test Analysis Framework\": Created a reusable statistics framework in python for analyzing A/B test results across product teams.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0009",
+    "job_id": "J01",
+    "tier": "strong",
+    "name": "Ava Silva",
+    "skills": [
+      "python",
+      "sql",
+      "statistics",
+      "pandas",
+      "machine learning",
+      "deep learning",
+      "tableau"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "spark",
+      "python",
+      "sql",
+      "scikit-learn"
+    ],
+    "projects": [
+      {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%."
+      },
+      {
+        "title": "A/B Test Analysis Framework",
+        "description": "Created a reusable statistics framework in python for analyzing A/B test results across product teams."
+      }
+    ],
+    "resume_text": "Ava Silva brings 5 years of experience relevant to Data Scientist roles, with a Bachelor's in Computer Science. Technical strengths span python, sql, statistics, pandas, machine learning, deep learning, tableau, alongside practical exposure to spark, python, sql, scikit-learn. Led \"Customer Churn Prediction\": Built a machine learning model in python using scikit-learn and pandas to predict customer churn, improving retention targeting by 18%. Led \"A/B Test Analysis Framework\": Created a reusable statistics framework in python for analyzing A/B test results across product teams. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0010",
+    "job_id": "J02",
+    "tier": "strong",
+    "name": "Liam Patel",
+    "skills": [
+      "spring boot",
+      "rest apis",
+      "sql",
+      "microservices",
+      "java",
+      "kubernetes",
+      "kafka",
+      "docker"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "postgresql",
+      "spring",
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Internal API Gateway",
+        "description": "Built an internal rest apis gateway in java to route requests across backend microservices."
+      }
+    ],
+    "resume_text": "With 2 years in the field and a Bachelor's in Computer Science, Liam Patel has developed expertise in spring boot, rest apis, sql, microservices, java, kubernetes, kafka, docker. Tooling experience includes postgresql, spring, docker. Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Internal API Gateway\": Built an internal rest apis gateway in java to route requests across backend microservices. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0011",
+    "job_id": "J02",
+    "tier": "medium",
+    "name": "Liam Kim",
+    "skills": [
+      "microservices",
+      "spring boot",
+      "kafka"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "java"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Liam Kim (Associate's in Computer Science) has spent 1 years building skills in microservices, spring boot, kafka, complemented by familiarity with java. Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0012",
+    "job_id": "J02",
+    "tier": "medium",
+    "name": "Liam Garcia",
+    "skills": [
+      "rest apis",
+      "java",
+      "microservices"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "spring",
+      "postgresql"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Liam Garcia is a Backend Engineer professional with 1 years of experience, holding a Associate's in Computer Science. Core skills include rest apis, java, microservices. Hands-on experience with spring, postgresql. Recent work: Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0013",
+    "job_id": "J02",
+    "tier": "weak",
+    "name": "Liam Chen",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Associate's in Hospitality Management",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      },
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      }
+    ],
+    "resume_text": "Liam Chen brings 0 years of experience relevant to Backend Engineer roles, with a Associate's in Hospitality Management. Technical strengths span general professional and organizational skills, alongside practical exposure to standard office tooling. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0014",
+    "job_id": "J02",
+    "tier": "strong",
+    "name": "Liam Okafor",
+    "skills": [
+      "java",
+      "microservices",
+      "sql",
+      "spring boot",
+      "kafka",
+      "kubernetes"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "docker",
+      "java",
+      "spring"
+    ],
+    "projects": [
+      {
+        "title": "Payment Service Migration",
+        "description": "Migrated a monolithic payment module into independent microservices, containerized with docker."
+      },
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Internal API Gateway",
+        "description": "Built an internal rest apis gateway in java to route requests across backend microservices."
+      }
+    ],
+    "resume_text": "With 3 years in the field and a Bachelor's in Computer Science, Liam Okafor has developed expertise in java, microservices, sql, spring boot, kafka, kubernetes. Tooling experience includes docker, java, spring. Led \"Payment Service Migration\": Migrated a monolithic payment module into independent microservices, containerized with docker. Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Internal API Gateway\": Built an internal rest apis gateway in java to route requests across backend microservices. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0015",
+    "job_id": "J02",
+    "tier": "strong",
+    "name": "Liam Nguyen",
+    "skills": [
+      "microservices",
+      "java",
+      "sql",
+      "rest apis",
+      "kafka",
+      "kubernetes",
+      "docker"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "spring",
+      "docker",
+      "java"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Payment Service Migration",
+        "description": "Migrated a monolithic payment module into independent microservices, containerized with docker."
+      },
+      {
+        "title": "Internal API Gateway",
+        "description": "Built an internal rest apis gateway in java to route requests across backend microservices."
+      }
+    ],
+    "resume_text": "Liam Nguyen (Bachelor's in Computer Science) has spent 3 years building skills in microservices, java, sql, rest apis, kafka, kubernetes, docker, complemented by familiarity with spring, docker, java. Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Payment Service Migration\": Migrated a monolithic payment module into independent microservices, containerized with docker. Led \"Internal API Gateway\": Built an internal rest apis gateway in java to route requests across backend microservices. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0016",
+    "job_id": "J02",
+    "tier": "medium",
+    "name": "Liam Rossi",
+    "skills": [
+      "sql",
+      "rest apis",
+      "spring boot",
+      "kubernetes"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "docker",
+      "java"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      }
+    ],
+    "resume_text": "Liam Rossi is a Backend Engineer professional with 1 years of experience, holding a Associate's in Computer Science. Core skills include sql, rest apis, spring boot, kubernetes. Hands-on experience with docker, java. Recent work: Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0017",
+    "job_id": "J02",
+    "tier": "weak",
+    "name": "Liam Johnson",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Associate's in Fine Arts",
+    "technologies": [
+      "java"
+    ],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Liam Johnson brings 0 years of experience relevant to Backend Engineer roles, with a Associate's in Fine Arts. Technical strengths span general professional and organizational skills, alongside practical exposure to java. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0018",
+    "job_id": "J02",
+    "tier": "strong",
+    "name": "Liam Muller",
+    "skills": [
+      "java",
+      "spring boot",
+      "microservices",
+      "rest apis",
+      "sql",
+      "kubernetes",
+      "kafka"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "java",
+      "postgresql",
+      "docker",
+      "spring"
+    ],
+    "projects": [
+      {
+        "title": "Order Management Microservice",
+        "description": "Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql."
+      },
+      {
+        "title": "Payment Service Migration",
+        "description": "Migrated a monolithic payment module into independent microservices, containerized with docker."
+      },
+      {
+        "title": "Internal API Gateway",
+        "description": "Built an internal rest apis gateway in java to route requests across backend microservices."
+      }
+    ],
+    "resume_text": "With 4 years in the field and a Bachelor's in Computer Science, Liam Muller has developed expertise in java, spring boot, microservices, rest apis, sql, kubernetes, kafka. Tooling experience includes java, postgresql, docker, spring. Led \"Order Management Microservice\": Designed and implemented a java/spring boot microservice exposing rest apis for order management, backed by sql. Led \"Payment Service Migration\": Migrated a monolithic payment module into independent microservices, containerized with docker. Led \"Internal API Gateway\": Built an internal rest apis gateway in java to route requests across backend microservices. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0019",
+    "job_id": "J02",
+    "tier": "weak",
+    "name": "Liam Silva",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Associate's in Fine Arts",
+    "technologies": [
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Liam Silva (Associate's in Fine Arts) has spent 0 years building skills in general professional and organizational skills, complemented by familiarity with docker. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0020",
+    "job_id": "J03",
+    "tier": "weak",
+    "name": "Maya Patel",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [
+      "webpack"
+    ],
+    "projects": [
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      }
+    ],
+    "resume_text": "Maya Patel is a Frontend Developer professional with 0 years of experience, holding a Bachelor's in Fine Arts. Core skills include general professional and organizational skills. Hands-on experience with webpack. Recent work: Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0021",
+    "job_id": "J03",
+    "tier": "medium",
+    "name": "Maya Kim",
+    "skills": [
+      "javascript",
+      "react"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "webpack",
+      "typescript"
+    ],
+    "projects": [
+      {
+        "title": "E-commerce Storefront Revamp",
+        "description": "Rebuilt a storefront using react and typescript, improving page load speed and accessibility."
+      },
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      }
+    ],
+    "resume_text": "Maya Kim brings 1 years of experience relevant to Frontend Developer roles, with a Associate's in Computer Science. Technical strengths span javascript, react, alongside practical exposure to webpack, typescript. Led \"E-commerce Storefront Revamp\": Rebuilt a storefront using react and typescript, improving page load speed and accessibility. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0022",
+    "job_id": "J03",
+    "tier": "weak",
+    "name": "Maya Garcia",
+    "skills": [
+      "html"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [
+      "react"
+    ],
+    "projects": [
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Bachelor's in Fine Arts, Maya Garcia has developed expertise in html. Tooling experience includes react. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0023",
+    "job_id": "J03",
+    "tier": "medium",
+    "name": "Maya Chen",
+    "skills": [
+      "html",
+      "react",
+      "typescript",
+      "testing"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "react"
+    ],
+    "projects": [
+      {
+        "title": "E-commerce Storefront Revamp",
+        "description": "Rebuilt a storefront using react and typescript, improving page load speed and accessibility."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Maya Chen (Associate's in Computer Science) has spent 1 years building skills in html, react, typescript, testing, complemented by familiarity with react. Led \"E-commerce Storefront Revamp\": Rebuilt a storefront using react and typescript, improving page load speed and accessibility. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0024",
+    "job_id": "J03",
+    "tier": "strong",
+    "name": "Maya Okafor",
+    "skills": [
+      "react",
+      "javascript",
+      "typescript",
+      "css",
+      "html",
+      "redux"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "react",
+      "typescript",
+      "webpack"
+    ],
+    "projects": [
+      {
+        "title": "Design System Component Library",
+        "description": "Created a reusable html/css component library adopted across multiple react applications."
+      },
+      {
+        "title": "Marketing Site Rebuild",
+        "description": "Rebuilt the company marketing site using next.js and typescript with a focus on seo."
+      }
+    ],
+    "resume_text": "Maya Okafor is a Frontend Developer professional with 3 years of experience, holding a Bachelor's in Computer Science. Core skills include react, javascript, typescript, css, html, redux. Hands-on experience with react, typescript, webpack. Recent work: Led \"Design System Component Library\": Created a reusable html/css component library adopted across multiple react applications. Led \"Marketing Site Rebuild\": Rebuilt the company marketing site using next.js and typescript with a focus on seo.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0025",
+    "job_id": "J03",
+    "tier": "strong",
+    "name": "Maya Nguyen",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "testing"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "typescript",
+      "react",
+      "webpack"
+    ],
+    "projects": [
+      {
+        "title": "Design System Component Library",
+        "description": "Created a reusable html/css component library adopted across multiple react applications."
+      },
+      {
+        "title": "E-commerce Storefront Revamp",
+        "description": "Rebuilt a storefront using react and typescript, improving page load speed and accessibility."
+      }
+    ],
+    "resume_text": "Maya Nguyen brings 3 years of experience relevant to Frontend Developer roles, with a Bachelor's in Computer Science. Technical strengths span react, typescript, javascript, html, css, testing, alongside practical exposure to typescript, react, webpack. Led \"Design System Component Library\": Created a reusable html/css component library adopted across multiple react applications. Led \"E-commerce Storefront Revamp\": Rebuilt a storefront using react and typescript, improving page load speed and accessibility. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0026",
+    "job_id": "J03",
+    "tier": "strong",
+    "name": "Maya Rossi",
+    "skills": [
+      "react",
+      "typescript",
+      "css",
+      "html",
+      "javascript",
+      "next.js",
+      "testing",
+      "redux"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "typescript",
+      "webpack",
+      "react"
+    ],
+    "projects": [
+      {
+        "title": "Design System Component Library",
+        "description": "Created a reusable html/css component library adopted across multiple react applications."
+      },
+      {
+        "title": "Marketing Site Rebuild",
+        "description": "Rebuilt the company marketing site using next.js and typescript with a focus on seo."
+      },
+      {
+        "title": "E-commerce Storefront Revamp",
+        "description": "Rebuilt a storefront using react and typescript, improving page load speed and accessibility."
+      }
+    ],
+    "resume_text": "With 2 years in the field and a Bachelor's in Computer Science, Maya Rossi has developed expertise in react, typescript, css, html, javascript, next.js, testing, redux. Tooling experience includes typescript, webpack, react. Led \"Design System Component Library\": Created a reusable html/css component library adopted across multiple react applications. Led \"Marketing Site Rebuild\": Rebuilt the company marketing site using next.js and typescript with a focus on seo. Led \"E-commerce Storefront Revamp\": Rebuilt a storefront using react and typescript, improving page load speed and accessibility. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0027",
+    "job_id": "J03",
+    "tier": "medium",
+    "name": "Maya Johnson",
+    "skills": [
+      "javascript",
+      "html",
+      "typescript",
+      "redux"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "webpack"
+    ],
+    "projects": [
+      {
+        "title": "Design System Component Library",
+        "description": "Created a reusable html/css component library adopted across multiple react applications."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Maya Johnson (Associate's in Computer Science) has spent 1 years building skills in javascript, html, typescript, redux, complemented by familiarity with webpack. Led \"Design System Component Library\": Created a reusable html/css component library adopted across multiple react applications. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0028",
+    "job_id": "J03",
+    "tier": "strong",
+    "name": "Maya Muller",
+    "skills": [
+      "html",
+      "css",
+      "typescript",
+      "javascript",
+      "react",
+      "next.js",
+      "redux",
+      "testing"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "react",
+      "webpack",
+      "typescript"
+    ],
+    "projects": [
+      {
+        "title": "Marketing Site Rebuild",
+        "description": "Rebuilt the company marketing site using next.js and typescript with a focus on seo."
+      },
+      {
+        "title": "Design System Component Library",
+        "description": "Created a reusable html/css component library adopted across multiple react applications."
+      }
+    ],
+    "resume_text": "Maya Muller is a Frontend Developer professional with 5 years of experience, holding a Bachelor's in Computer Science. Core skills include html, css, typescript, javascript, react, next.js, redux, testing. Hands-on experience with react, webpack, typescript. Recent work: Led \"Marketing Site Rebuild\": Rebuilt the company marketing site using next.js and typescript with a focus on seo. Led \"Design System Component Library\": Created a reusable html/css component library adopted across multiple react applications.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0029",
+    "job_id": "J03",
+    "tier": "weak",
+    "name": "Maya Silva",
+    "skills": [
+      "javascript"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in Business Administration",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Maya Silva brings 0 years of experience relevant to Frontend Developer roles, with a Bachelor's in Business Administration. Technical strengths span javascript, alongside practical exposure to standard office tooling. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0030",
+    "job_id": "J04",
+    "tier": "weak",
+    "name": "Noah Patel",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Bachelor's in Hospitality Management",
+    "technologies": [
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Bachelor's in Hospitality Management, Noah Patel has developed expertise in general professional and organizational skills. Tooling experience includes terraform. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0031",
+    "job_id": "J04",
+    "tier": "strong",
+    "name": "Noah Kim",
+    "skills": [
+      "ci/cd",
+      "linux",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "aws",
+      "monitoring",
+      "ansible"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "kubernetes",
+      "docker",
+      "terraform",
+      "aws"
+    ],
+    "projects": [
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      },
+      {
+        "title": "Kubernetes Cluster Hardening",
+        "description": "Hardened production kubernetes clusters running on linux, improving security posture."
+      }
+    ],
+    "resume_text": "Noah Kim (Bachelor's in Computer Science) has spent 6 years building skills in ci/cd, linux, terraform, docker, kubernetes, aws, monitoring, ansible, complemented by familiarity with kubernetes, docker, terraform, aws. Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Led \"Kubernetes Cluster Hardening\": Hardened production kubernetes clusters running on linux, improving security posture. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0032",
+    "job_id": "J04",
+    "tier": "medium",
+    "name": "Noah Garcia",
+    "skills": [
+      "terraform",
+      "ci/cd",
+      "docker",
+      "monitoring"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "kubernetes",
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Kubernetes Cluster Hardening",
+        "description": "Hardened production kubernetes clusters running on linux, improving security posture."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Noah Garcia is a DevOps Engineer professional with 2 years of experience, holding a Associate's in Computer Science. Core skills include terraform, ci/cd, docker, monitoring. Hands-on experience with kubernetes, terraform. Recent work: Led \"Kubernetes Cluster Hardening\": Hardened production kubernetes clusters running on linux, improving security posture. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0033",
+    "job_id": "J04",
+    "tier": "weak",
+    "name": "Noah Chen",
+    "skills": [
+      "linux"
+    ],
+    "experience_years": 0,
+    "education": "Associate's in History",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Noah Chen brings 0 years of experience relevant to DevOps Engineer roles, with a Associate's in History. Technical strengths span linux, alongside practical exposure to standard office tooling. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0034",
+    "job_id": "J04",
+    "tier": "strong",
+    "name": "Noah Okafor",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "ci/cd",
+      "terraform",
+      "ansible",
+      "monitoring",
+      "aws"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "aws",
+      "kubernetes",
+      "terraform",
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "Kubernetes Cluster Hardening",
+        "description": "Hardened production kubernetes clusters running on linux, improving security posture."
+      },
+      {
+        "title": "CI/CD Pipeline Overhaul",
+        "description": "Redesigned the ci/cd pipeline using docker and kubernetes, cutting deployment time by 60%."
+      },
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      }
+    ],
+    "resume_text": "With 5 years in the field and a Bachelor's in Computer Science, Noah Okafor has developed expertise in kubernetes, docker, ci/cd, terraform, ansible, monitoring, aws. Tooling experience includes aws, kubernetes, terraform, docker. Led \"Kubernetes Cluster Hardening\": Hardened production kubernetes clusters running on linux, improving security posture. Led \"CI/CD Pipeline Overhaul\": Redesigned the ci/cd pipeline using docker and kubernetes, cutting deployment time by 60%. Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0035",
+    "job_id": "J04",
+    "tier": "weak",
+    "name": "Noah Nguyen",
+    "skills": [
+      "docker"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in History",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "Noah Nguyen (Associate's in History) has spent 1 years building skills in docker, complemented by familiarity with standard office tooling. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0036",
+    "job_id": "J04",
+    "tier": "medium",
+    "name": "Noah Rossi",
+    "skills": [
+      "ci/cd",
+      "linux",
+      "terraform",
+      "ansible"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "docker",
+      "aws"
+    ],
+    "projects": [
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      },
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "Noah Rossi is a DevOps Engineer professional with 2 years of experience, holding a Associate's in Computer Science. Core skills include ci/cd, linux, terraform, ansible. Hands-on experience with docker, aws. Recent work: Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0037",
+    "job_id": "J04",
+    "tier": "medium",
+    "name": "Noah Johnson",
+    "skills": [
+      "terraform",
+      "linux",
+      "docker",
+      "aws"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "terraform",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      },
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      }
+    ],
+    "resume_text": "Noah Johnson brings 2 years of experience relevant to DevOps Engineer roles, with a Associate's in Computer Science. Technical strengths span terraform, linux, docker, aws, alongside practical exposure to terraform, kubernetes. Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0038",
+    "job_id": "J04",
+    "tier": "strong",
+    "name": "Noah Muller",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "linux",
+      "ansible",
+      "monitoring"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "aws",
+      "docker",
+      "terraform",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Kubernetes Cluster Hardening",
+        "description": "Hardened production kubernetes clusters running on linux, improving security posture."
+      },
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      }
+    ],
+    "resume_text": "With 3 years in the field and a Bachelor's in Computer Science, Noah Muller has developed expertise in docker, kubernetes, ci/cd, linux, ansible, monitoring. Tooling experience includes aws, docker, terraform, kubernetes. Led \"Kubernetes Cluster Hardening\": Hardened production kubernetes clusters running on linux, improving security posture. Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0039",
+    "job_id": "J04",
+    "tier": "strong",
+    "name": "Noah Silva",
+    "skills": [
+      "kubernetes",
+      "ci/cd",
+      "linux",
+      "terraform",
+      "aws",
+      "monitoring"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Infrastructure as Code Migration",
+        "description": "Migrated manual infrastructure provisioning to terraform across multiple aws accounts."
+      },
+      {
+        "title": "CI/CD Pipeline Overhaul",
+        "description": "Redesigned the ci/cd pipeline using docker and kubernetes, cutting deployment time by 60%."
+      }
+    ],
+    "resume_text": "Noah Silva (Bachelor's in Computer Science) has spent 5 years building skills in kubernetes, ci/cd, linux, terraform, aws, monitoring, complemented by familiarity with aws, kubernetes, terraform. Led \"Infrastructure as Code Migration\": Migrated manual infrastructure provisioning to terraform across multiple aws accounts. Led \"CI/CD Pipeline Overhaul\": Redesigned the ci/cd pipeline using docker and kubernetes, cutting deployment time by 60%. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0040",
+    "job_id": "J05",
+    "tier": "medium",
+    "name": "Zara Patel",
+    "skills": [
+      "python",
+      "deep learning"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science / AI",
+    "technologies": [
+      "python",
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "Image Classification Service",
+        "description": "Trained and deployed a deep learning model in pytorch for image classification, served via a kubernetes-based mlops pipeline."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Zara Patel is a Machine Learning Engineer professional with 2 years of experience, holding a Bachelor's in Computer Science / AI. Core skills include python, deep learning. Hands-on experience with python, docker. Recent work: Led \"Image Classification Service\": Trained and deployed a deep learning model in pytorch for image classification, served via a kubernetes-based mlops pipeline. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0041",
+    "job_id": "J05",
+    "tier": "strong",
+    "name": "Zara Kim",
+    "skills": [
+      "pytorch",
+      "deep learning",
+      "machine learning",
+      "python",
+      "mlops",
+      "kubernetes",
+      "computer vision",
+      "nlp"
+    ],
+    "experience_years": 4,
+    "education": "Master's in Computer Science / AI",
+    "technologies": [
+      "kubernetes",
+      "pytorch",
+      "python",
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      },
+      {
+        "title": "MLOps Pipeline Automation",
+        "description": "Built an mlops pipeline automating retraining and deployment for several machine learning models."
+      }
+    ],
+    "resume_text": "Zara Kim brings 4 years of experience relevant to Machine Learning Engineer roles, with a Master's in Computer Science / AI. Technical strengths span pytorch, deep learning, machine learning, python, mlops, kubernetes, computer vision, nlp, alongside practical exposure to kubernetes, pytorch, python, docker. Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Led \"MLOps Pipeline Automation\": Built an mlops pipeline automating retraining and deployment for several machine learning models. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0042",
+    "job_id": "J05",
+    "tier": "strong",
+    "name": "Zara Garcia",
+    "skills": [
+      "machine learning",
+      "python",
+      "pytorch",
+      "mlops",
+      "deep learning",
+      "computer vision",
+      "nlp"
+    ],
+    "experience_years": 6,
+    "education": "Master's in Computer Science / AI",
+    "technologies": [
+      "docker",
+      "python",
+      "pytorch"
+    ],
+    "projects": [
+      {
+        "title": "MLOps Pipeline Automation",
+        "description": "Built an mlops pipeline automating retraining and deployment for several machine learning models."
+      },
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      }
+    ],
+    "resume_text": "With 6 years in the field and a Master's in Computer Science / AI, Zara Garcia has developed expertise in machine learning, python, pytorch, mlops, deep learning, computer vision, nlp. Tooling experience includes docker, python, pytorch. Led \"MLOps Pipeline Automation\": Built an mlops pipeline automating retraining and deployment for several machine learning models. Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0043",
+    "job_id": "J05",
+    "tier": "medium",
+    "name": "Zara Chen",
+    "skills": [
+      "mlops",
+      "deep learning",
+      "machine learning"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science / AI",
+    "technologies": [
+      "docker",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Zara Chen (Bachelor's in Computer Science / AI) has spent 2 years building skills in mlops, deep learning, machine learning, complemented by familiarity with docker, kubernetes. Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0044",
+    "job_id": "J05",
+    "tier": "weak",
+    "name": "Zara Okafor",
+    "skills": [
+      "machine learning"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in History",
+    "technologies": [
+      "python"
+    ],
+    "projects": [
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Zara Okafor is a Machine Learning Engineer professional with 0 years of experience, holding a Bachelor's in History. Core skills include machine learning. Hands-on experience with python. Recent work: Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0045",
+    "job_id": "J05",
+    "tier": "weak",
+    "name": "Zara Nguyen",
+    "skills": [],
+    "experience_years": 1,
+    "education": "Bachelor's in Business Administration",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Zara Nguyen brings 1 years of experience relevant to Machine Learning Engineer roles, with a Bachelor's in Business Administration. Technical strengths span general professional and organizational skills, alongside practical exposure to standard office tooling. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0046",
+    "job_id": "J05",
+    "tier": "strong",
+    "name": "Zara Rossi",
+    "skills": [
+      "pytorch",
+      "python",
+      "machine learning",
+      "mlops",
+      "deep learning",
+      "nlp"
+    ],
+    "experience_years": 6,
+    "education": "Master's in Computer Science / AI",
+    "technologies": [
+      "pytorch",
+      "docker",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Image Classification Service",
+        "description": "Trained and deployed a deep learning model in pytorch for image classification, served via a kubernetes-based mlops pipeline."
+      },
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      },
+      {
+        "title": "MLOps Pipeline Automation",
+        "description": "Built an mlops pipeline automating retraining and deployment for several machine learning models."
+      }
+    ],
+    "resume_text": "With 6 years in the field and a Master's in Computer Science / AI, Zara Rossi has developed expertise in pytorch, python, machine learning, mlops, deep learning, nlp. Tooling experience includes pytorch, docker, kubernetes. Led \"Image Classification Service\": Trained and deployed a deep learning model in pytorch for image classification, served via a kubernetes-based mlops pipeline. Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Led \"MLOps Pipeline Automation\": Built an mlops pipeline automating retraining and deployment for several machine learning models. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0047",
+    "job_id": "J05",
+    "tier": "medium",
+    "name": "Zara Johnson",
+    "skills": [
+      "deep learning",
+      "pytorch",
+      "nlp"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science / AI",
+    "technologies": [
+      "docker",
+      "pytorch"
+    ],
+    "projects": [
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Zara Johnson (Bachelor's in Computer Science / AI) has spent 2 years building skills in deep learning, pytorch, nlp, complemented by familiarity with docker, pytorch. Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0048",
+    "job_id": "J05",
+    "tier": "strong",
+    "name": "Zara Muller",
+    "skills": [
+      "mlops",
+      "pytorch",
+      "deep learning",
+      "machine learning",
+      "computer vision"
+    ],
+    "experience_years": 4,
+    "education": "Master's in Computer Science / AI",
+    "technologies": [
+      "python",
+      "docker",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "NLP Sentiment Pipeline",
+        "description": "Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack."
+      },
+      {
+        "title": "MLOps Pipeline Automation",
+        "description": "Built an mlops pipeline automating retraining and deployment for several machine learning models."
+      }
+    ],
+    "resume_text": "Zara Muller is a Machine Learning Engineer professional with 4 years of experience, holding a Master's in Computer Science / AI. Core skills include mlops, pytorch, deep learning, machine learning, computer vision. Hands-on experience with python, docker, kubernetes. Recent work: Led \"NLP Sentiment Pipeline\": Developed an nlp sentiment analysis pipeline in python integrated into a production pytorch serving stack. Led \"MLOps Pipeline Automation\": Built an mlops pipeline automating retraining and deployment for several machine learning models.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0049",
+    "job_id": "J05",
+    "tier": "weak",
+    "name": "Zara Silva",
+    "skills": [],
+    "experience_years": 1,
+    "education": "Associate's in Business Administration",
+    "technologies": [
+      "docker"
+    ],
+    "projects": [
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Zara Silva brings 1 years of experience relevant to Machine Learning Engineer roles, with a Associate's in Business Administration. Technical strengths span general professional and organizational skills, alongside practical exposure to docker. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0050",
+    "job_id": "J06",
+    "tier": "medium",
+    "name": "Ethan Patel",
+    "skills": [
+      "roadmapping",
+      "agile",
+      "product strategy",
+      "ux research"
+    ],
+    "experience_years": 3,
+    "education": "Associate's in any field",
+    "technologies": [
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "With 3 years in the field and a Associate's in any field, Ethan Patel has developed expertise in roadmapping, agile, product strategy, ux research. Tooling experience includes sql. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0051",
+    "job_id": "J06",
+    "tier": "strong",
+    "name": "Ethan Kim",
+    "skills": [
+      "product strategy",
+      "stakeholder management",
+      "roadmapping",
+      "analytics",
+      "a/b testing",
+      "ux research",
+      "sql"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in any field",
+    "technologies": [
+      "figma",
+      "jira",
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Mobile App Roadmap Relaunch",
+        "description": "Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads."
+      },
+      {
+        "title": "Cross-team OKR Rollout",
+        "description": "Drove stakeholder management and analytics reporting for a company-wide OKR rollout."
+      },
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      }
+    ],
+    "resume_text": "Ethan Kim (Bachelor's in any field) has spent 5 years building skills in product strategy, stakeholder management, roadmapping, analytics, a/b testing, ux research, sql, complemented by familiarity with figma, jira, sql. Led \"Mobile App Roadmap Relaunch\": Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads. Led \"Cross-team OKR Rollout\": Drove stakeholder management and analytics reporting for a company-wide OKR rollout. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0052",
+    "job_id": "J06",
+    "tier": "weak",
+    "name": "Ethan Garcia",
+    "skills": [
+      "agile"
+    ],
+    "experience_years": 1,
+    "education": "Bachelor's in Hospitality Management",
+    "technologies": [
+      "jira"
+    ],
+    "projects": [
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Ethan Garcia is a Product Manager professional with 1 years of experience, holding a Bachelor's in Hospitality Management. Core skills include agile. Hands-on experience with jira. Recent work: Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0053",
+    "job_id": "J06",
+    "tier": "weak",
+    "name": "Ethan Chen",
+    "skills": [
+      "product strategy"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [
+      "jira"
+    ],
+    "projects": [
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      }
+    ],
+    "resume_text": "Ethan Chen brings 2 years of experience relevant to Product Manager roles, with a Bachelor's in Fine Arts. Technical strengths span product strategy, alongside practical exposure to jira. Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0054",
+    "job_id": "J06",
+    "tier": "strong",
+    "name": "Ethan Okafor",
+    "skills": [
+      "product strategy",
+      "roadmapping",
+      "analytics",
+      "agile",
+      "ux research",
+      "a/b testing"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in any field",
+    "technologies": [
+      "jira",
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Mobile App Roadmap Relaunch",
+        "description": "Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads."
+      },
+      {
+        "title": "Cross-team OKR Rollout",
+        "description": "Drove stakeholder management and analytics reporting for a company-wide OKR rollout."
+      },
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      }
+    ],
+    "resume_text": "With 6 years in the field and a Bachelor's in any field, Ethan Okafor has developed expertise in product strategy, roadmapping, analytics, agile, ux research, a/b testing. Tooling experience includes jira, sql. Led \"Mobile App Roadmap Relaunch\": Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads. Led \"Cross-team OKR Rollout\": Drove stakeholder management and analytics reporting for a company-wide OKR rollout. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0055",
+    "job_id": "J06",
+    "tier": "weak",
+    "name": "Ethan Nguyen",
+    "skills": [
+      "analytics"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in History",
+    "technologies": [
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Ethan Nguyen (Associate's in History) has spent 2 years building skills in analytics, complemented by familiarity with sql. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0056",
+    "job_id": "J06",
+    "tier": "medium",
+    "name": "Ethan Rossi",
+    "skills": [
+      "stakeholder management",
+      "analytics",
+      "a/b testing"
+    ],
+    "experience_years": 3,
+    "education": "Associate's in any field",
+    "technologies": [
+      "figma",
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "Ethan Rossi is a Product Manager professional with 3 years of experience, holding a Associate's in any field. Core skills include stakeholder management, analytics, a/b testing. Hands-on experience with figma, sql. Recent work: Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0057",
+    "job_id": "J06",
+    "tier": "strong",
+    "name": "Ethan Johnson",
+    "skills": [
+      "analytics",
+      "product strategy",
+      "roadmapping",
+      "stakeholder management",
+      "sql",
+      "ux research"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in any field",
+    "technologies": [
+      "figma",
+      "jira"
+    ],
+    "projects": [
+      {
+        "title": "Mobile App Roadmap Relaunch",
+        "description": "Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads."
+      },
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      }
+    ],
+    "resume_text": "Ethan Johnson brings 6 years of experience relevant to Product Manager roles, with a Bachelor's in any field. Technical strengths span analytics, product strategy, roadmapping, stakeholder management, sql, ux research, alongside practical exposure to figma, jira. Led \"Mobile App Roadmap Relaunch\": Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0058",
+    "job_id": "J06",
+    "tier": "medium",
+    "name": "Ethan Muller",
+    "skills": [
+      "agile",
+      "stakeholder management",
+      "product strategy",
+      "a/b testing"
+    ],
+    "experience_years": 3,
+    "education": "Associate's in any field",
+    "technologies": [
+      "sql",
+      "jira"
+    ],
+    "projects": [
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "With 3 years in the field and a Associate's in any field, Ethan Muller has developed expertise in agile, stakeholder management, product strategy, a/b testing. Tooling experience includes sql, jira. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0059",
+    "job_id": "J06",
+    "tier": "strong",
+    "name": "Ethan Silva",
+    "skills": [
+      "stakeholder management",
+      "product strategy",
+      "agile",
+      "roadmapping",
+      "a/b testing",
+      "ux research"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor's in any field",
+    "technologies": [
+      "sql",
+      "jira",
+      "figma"
+    ],
+    "projects": [
+      {
+        "title": "Pricing Strategy Analysis",
+        "description": "Used sql-driven analytics to inform a new product strategy for a subscription pricing tier."
+      },
+      {
+        "title": "Cross-team OKR Rollout",
+        "description": "Drove stakeholder management and analytics reporting for a company-wide OKR rollout."
+      },
+      {
+        "title": "Mobile App Roadmap Relaunch",
+        "description": "Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads."
+      }
+    ],
+    "resume_text": "Ethan Silva (Bachelor's in any field) has spent 4 years building skills in stakeholder management, product strategy, agile, roadmapping, a/b testing, ux research, complemented by familiarity with sql, jira, figma. Led \"Pricing Strategy Analysis\": Used sql-driven analytics to inform a new product strategy for a subscription pricing tier. Led \"Cross-team OKR Rollout\": Drove stakeholder management and analytics reporting for a company-wide OKR rollout. Led \"Mobile App Roadmap Relaunch\": Led roadmapping and stakeholder management to relaunch a mobile app, applying agile ceremonies across three squads. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0060",
+    "job_id": "J07",
+    "tier": "strong",
+    "name": "Priya Patel",
+    "skills": [
+      "terraform",
+      "security",
+      "networking",
+      "cloud architecture",
+      "aws",
+      "cost optimization"
+    ],
+    "experience_years": 8,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "terraform",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Multi-Region AWS Migration",
+        "description": "Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience."
+      },
+      {
+        "title": "Kubernetes Platform Blueprint",
+        "description": "Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture."
+      }
+    ],
+    "resume_text": "Priya Patel is a Cloud Solutions Architect professional with 8 years of experience, holding a Bachelor's in Computer Science. Core skills include terraform, security, networking, cloud architecture, aws, cost optimization. Hands-on experience with terraform, kubernetes. Recent work: Led \"Multi-Region AWS Migration\": Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience. Led \"Kubernetes Platform Blueprint\": Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0061",
+    "job_id": "J07",
+    "tier": "strong",
+    "name": "Priya Kim",
+    "skills": [
+      "networking",
+      "aws",
+      "terraform",
+      "cloud architecture",
+      "security",
+      "azure"
+    ],
+    "experience_years": 7,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Zero Trust Security Rollout",
+        "description": "Designed a zero-trust security model across cloud networking infrastructure."
+      },
+      {
+        "title": "Kubernetes Platform Blueprint",
+        "description": "Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture."
+      },
+      {
+        "title": "Multi-Region AWS Migration",
+        "description": "Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience."
+      }
+    ],
+    "resume_text": "Priya Kim brings 7 years of experience relevant to Cloud Solutions Architect roles, with a Bachelor's in Computer Science. Technical strengths span networking, aws, terraform, cloud architecture, security, azure, alongside practical exposure to aws, kubernetes, terraform. Led \"Zero Trust Security Rollout\": Designed a zero-trust security model across cloud networking infrastructure. Led \"Kubernetes Platform Blueprint\": Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture. Led \"Multi-Region AWS Migration\": Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0062",
+    "job_id": "J07",
+    "tier": "weak",
+    "name": "Priya Garcia",
+    "skills": [],
+    "experience_years": 3,
+    "education": "Associate's in Business Administration",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      },
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "With 3 years in the field and a Associate's in Business Administration, Priya Garcia has developed expertise in general professional and organizational skills. Tooling experience includes standard office tooling. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0063",
+    "job_id": "J07",
+    "tier": "weak",
+    "name": "Priya Chen",
+    "skills": [
+      "aws"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Hospitality Management",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Priya Chen (Associate's in Hospitality Management) has spent 2 years building skills in aws, complemented by familiarity with standard office tooling. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0064",
+    "job_id": "J07",
+    "tier": "strong",
+    "name": "Priya Okafor",
+    "skills": [
+      "terraform",
+      "security",
+      "cloud architecture",
+      "networking",
+      "aws",
+      "azure",
+      "gcp",
+      "cost optimization"
+    ],
+    "experience_years": 8,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "terraform",
+      "aws",
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Zero Trust Security Rollout",
+        "description": "Designed a zero-trust security model across cloud networking infrastructure."
+      },
+      {
+        "title": "Multi-Region AWS Migration",
+        "description": "Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience."
+      },
+      {
+        "title": "Kubernetes Platform Blueprint",
+        "description": "Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture."
+      }
+    ],
+    "resume_text": "Priya Okafor is a Cloud Solutions Architect professional with 8 years of experience, holding a Bachelor's in Computer Science. Core skills include terraform, security, cloud architecture, networking, aws, azure, gcp, cost optimization. Hands-on experience with terraform, aws, kubernetes. Recent work: Led \"Zero Trust Security Rollout\": Designed a zero-trust security model across cloud networking infrastructure. Led \"Multi-Region AWS Migration\": Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience. Led \"Kubernetes Platform Blueprint\": Built a reusable kubernetes platform blueprint for internal teams adopting aws cloud architecture.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0065",
+    "job_id": "J07",
+    "tier": "medium",
+    "name": "Priya Nguyen",
+    "skills": [
+      "cloud architecture",
+      "networking",
+      "aws",
+      "gcp"
+    ],
+    "experience_years": 4,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Multi-Region AWS Migration",
+        "description": "Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Priya Nguyen brings 4 years of experience relevant to Cloud Solutions Architect roles, with a Associate's in Computer Science. Technical strengths span cloud architecture, networking, aws, gcp, alongside practical exposure to terraform. Led \"Multi-Region AWS Migration\": Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0066",
+    "job_id": "J07",
+    "tier": "medium",
+    "name": "Priya Rossi",
+    "skills": [
+      "cloud architecture",
+      "aws",
+      "terraform",
+      "gcp"
+    ],
+    "experience_years": 4,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Zero Trust Security Rollout",
+        "description": "Designed a zero-trust security model across cloud networking infrastructure."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "With 4 years in the field and a Associate's in Computer Science, Priya Rossi has developed expertise in cloud architecture, aws, terraform, gcp. Tooling experience includes kubernetes. Led \"Zero Trust Security Rollout\": Designed a zero-trust security model across cloud networking infrastructure. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0067",
+    "job_id": "J07",
+    "tier": "strong",
+    "name": "Priya Johnson",
+    "skills": [
+      "terraform",
+      "security",
+      "cloud architecture",
+      "networking",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "kubernetes",
+      "aws",
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Zero Trust Security Rollout",
+        "description": "Designed a zero-trust security model across cloud networking infrastructure."
+      },
+      {
+        "title": "Multi-Region AWS Migration",
+        "description": "Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience."
+      }
+    ],
+    "resume_text": "Priya Johnson (Bachelor's in Computer Science) has spent 5 years building skills in terraform, security, cloud architecture, networking, aws, azure, gcp, complemented by familiarity with kubernetes, aws, terraform. Led \"Zero Trust Security Rollout\": Designed a zero-trust security model across cloud networking infrastructure. Led \"Multi-Region AWS Migration\": Architected a multi-region aws cloud architecture migration with terraform, improving networking resilience. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0068",
+    "job_id": "J07",
+    "tier": "weak",
+    "name": "Priya Muller",
+    "skills": [
+      "aws"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Hospitality Management",
+    "technologies": [
+      "terraform"
+    ],
+    "projects": [
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      }
+    ],
+    "resume_text": "Priya Muller is a Cloud Solutions Architect professional with 2 years of experience, holding a Bachelor's in Hospitality Management. Core skills include aws. Hands-on experience with terraform. Recent work: Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0069",
+    "job_id": "J07",
+    "tier": "medium",
+    "name": "Priya Silva",
+    "skills": [
+      "terraform",
+      "cloud architecture",
+      "aws"
+    ],
+    "experience_years": 4,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "terraform",
+      "aws"
+    ],
+    "projects": [
+      {
+        "title": "Zero Trust Security Rollout",
+        "description": "Designed a zero-trust security model across cloud networking infrastructure."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Priya Silva brings 4 years of experience relevant to Cloud Solutions Architect roles, with a Associate's in Computer Science. Technical strengths span terraform, cloud architecture, aws, alongside practical exposure to terraform, aws. Led \"Zero Trust Security Rollout\": Designed a zero-trust security model across cloud networking infrastructure. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0070",
+    "job_id": "J08",
+    "tier": "medium",
+    "name": "Lucas Patel",
+    "skills": [
+      "python",
+      "ci/cd",
+      "cypress"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "pytest",
+      "jenkins"
+    ],
+    "projects": [
+      {
+        "title": "Regression Suite Automation",
+        "description": "Built a selenium-based test automation suite in python integrated into the ci/cd pipeline."
+      },
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "With 1 years in the field and a Associate's in Computer Science, Lucas Patel has developed expertise in python, ci/cd, cypress. Tooling experience includes pytest, jenkins. Led \"Regression Suite Automation\": Built a selenium-based test automation suite in python integrated into the ci/cd pipeline. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0071",
+    "job_id": "J08",
+    "tier": "weak",
+    "name": "Lucas Kim",
+    "skills": [
+      "selenium"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Lucas Kim (Bachelor's in Fine Arts) has spent 0 years building skills in selenium, complemented by familiarity with standard office tooling. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0072",
+    "job_id": "J08",
+    "tier": "strong",
+    "name": "Lucas Garcia",
+    "skills": [
+      "selenium",
+      "api testing",
+      "test automation",
+      "ci/cd",
+      "python",
+      "performance testing"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "jenkins",
+      "selenium",
+      "pytest"
+    ],
+    "projects": [
+      {
+        "title": "API Test Framework",
+        "description": "Developed an api testing framework covering over 200 endpoints with automated regression checks."
+      },
+      {
+        "title": "Regression Suite Automation",
+        "description": "Built a selenium-based test automation suite in python integrated into the ci/cd pipeline."
+      },
+      {
+        "title": "Cross-browser Test Grid",
+        "description": "Set up a cross-browser selenium grid to run test automation suites in parallel."
+      }
+    ],
+    "resume_text": "Lucas Garcia is a QA Automation Engineer professional with 2 years of experience, holding a Bachelor's in Computer Science. Core skills include selenium, api testing, test automation, ci/cd, python, performance testing. Hands-on experience with jenkins, selenium, pytest. Recent work: Led \"API Test Framework\": Developed an api testing framework covering over 200 endpoints with automated regression checks. Led \"Regression Suite Automation\": Built a selenium-based test automation suite in python integrated into the ci/cd pipeline. Led \"Cross-browser Test Grid\": Set up a cross-browser selenium grid to run test automation suites in parallel.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0073",
+    "job_id": "J08",
+    "tier": "medium",
+    "name": "Lucas Chen",
+    "skills": [
+      "selenium",
+      "python",
+      "test automation",
+      "performance testing"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "jenkins"
+    ],
+    "projects": [
+      {
+        "title": "API Test Framework",
+        "description": "Developed an api testing framework covering over 200 endpoints with automated regression checks."
+      },
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      }
+    ],
+    "resume_text": "Lucas Chen brings 1 years of experience relevant to QA Automation Engineer roles, with a Associate's in Computer Science. Technical strengths span selenium, python, test automation, performance testing, alongside practical exposure to jenkins. Led \"API Test Framework\": Developed an api testing framework covering over 200 endpoints with automated regression checks. Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0074",
+    "job_id": "J08",
+    "tier": "strong",
+    "name": "Lucas Okafor",
+    "skills": [
+      "python",
+      "api testing",
+      "test automation",
+      "ci/cd",
+      "selenium",
+      "performance testing",
+      "java"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "selenium",
+      "pytest",
+      "jenkins"
+    ],
+    "projects": [
+      {
+        "title": "Regression Suite Automation",
+        "description": "Built a selenium-based test automation suite in python integrated into the ci/cd pipeline."
+      },
+      {
+        "title": "API Test Framework",
+        "description": "Developed an api testing framework covering over 200 endpoints with automated regression checks."
+      },
+      {
+        "title": "Cross-browser Test Grid",
+        "description": "Set up a cross-browser selenium grid to run test automation suites in parallel."
+      }
+    ],
+    "resume_text": "With 2 years in the field and a Bachelor's in Computer Science, Lucas Okafor has developed expertise in python, api testing, test automation, ci/cd, selenium, performance testing, java. Tooling experience includes selenium, pytest, jenkins. Led \"Regression Suite Automation\": Built a selenium-based test automation suite in python integrated into the ci/cd pipeline. Led \"API Test Framework\": Developed an api testing framework covering over 200 endpoints with automated regression checks. Led \"Cross-browser Test Grid\": Set up a cross-browser selenium grid to run test automation suites in parallel. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0075",
+    "job_id": "J08",
+    "tier": "strong",
+    "name": "Lucas Nguyen",
+    "skills": [
+      "python",
+      "api testing",
+      "ci/cd",
+      "test automation",
+      "performance testing"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "jenkins",
+      "pytest",
+      "selenium"
+    ],
+    "projects": [
+      {
+        "title": "Cross-browser Test Grid",
+        "description": "Set up a cross-browser selenium grid to run test automation suites in parallel."
+      },
+      {
+        "title": "API Test Framework",
+        "description": "Developed an api testing framework covering over 200 endpoints with automated regression checks."
+      },
+      {
+        "title": "Regression Suite Automation",
+        "description": "Built a selenium-based test automation suite in python integrated into the ci/cd pipeline."
+      }
+    ],
+    "resume_text": "Lucas Nguyen (Bachelor's in Computer Science) has spent 2 years building skills in python, api testing, ci/cd, test automation, performance testing, complemented by familiarity with jenkins, pytest, selenium. Led \"Cross-browser Test Grid\": Set up a cross-browser selenium grid to run test automation suites in parallel. Led \"API Test Framework\": Developed an api testing framework covering over 200 endpoints with automated regression checks. Led \"Regression Suite Automation\": Built a selenium-based test automation suite in python integrated into the ci/cd pipeline. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0076",
+    "job_id": "J08",
+    "tier": "weak",
+    "name": "Lucas Rossi",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Associate's in Fine Arts",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Lucas Rossi is a QA Automation Engineer professional with 0 years of experience, holding a Associate's in Fine Arts. Core skills include general professional and organizational skills. Hands-on experience with standard office tooling. Recent work: Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0077",
+    "job_id": "J08",
+    "tier": "medium",
+    "name": "Lucas Johnson",
+    "skills": [
+      "python",
+      "api testing",
+      "java"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "pytest"
+    ],
+    "projects": [
+      {
+        "title": "Cross-browser Test Grid",
+        "description": "Set up a cross-browser selenium grid to run test automation suites in parallel."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Lucas Johnson brings 1 years of experience relevant to QA Automation Engineer roles, with a Associate's in Computer Science. Technical strengths span python, api testing, java, alongside practical exposure to pytest. Led \"Cross-browser Test Grid\": Set up a cross-browser selenium grid to run test automation suites in parallel. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0078",
+    "job_id": "J08",
+    "tier": "weak",
+    "name": "Lucas Muller",
+    "skills": [
+      "ci/cd"
+    ],
+    "experience_years": 0,
+    "education": "Associate's in Hospitality Management",
+    "technologies": [
+      "selenium"
+    ],
+    "projects": [
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      },
+      {
+        "title": "Photography Portfolio",
+        "description": "Built a personal portfolio showcasing landscape and street photography."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Associate's in Hospitality Management, Lucas Muller has developed expertise in ci/cd. Tooling experience includes selenium. Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget. Led \"Photography Portfolio\": Built a personal portfolio showcasing landscape and street photography. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0079",
+    "job_id": "J08",
+    "tier": "strong",
+    "name": "Lucas Silva",
+    "skills": [
+      "python",
+      "ci/cd",
+      "selenium",
+      "test automation",
+      "performance testing",
+      "cypress"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "selenium",
+      "jenkins"
+    ],
+    "projects": [
+      {
+        "title": "Regression Suite Automation",
+        "description": "Built a selenium-based test automation suite in python integrated into the ci/cd pipeline."
+      },
+      {
+        "title": "Cross-browser Test Grid",
+        "description": "Set up a cross-browser selenium grid to run test automation suites in parallel."
+      },
+      {
+        "title": "API Test Framework",
+        "description": "Developed an api testing framework covering over 200 endpoints with automated regression checks."
+      }
+    ],
+    "resume_text": "Lucas Silva (Bachelor's in Computer Science) has spent 2 years building skills in python, ci/cd, selenium, test automation, performance testing, cypress, complemented by familiarity with selenium, jenkins. Led \"Regression Suite Automation\": Built a selenium-based test automation suite in python integrated into the ci/cd pipeline. Led \"Cross-browser Test Grid\": Set up a cross-browser selenium grid to run test automation suites in parallel. Led \"API Test Framework\": Developed an api testing framework covering over 200 endpoints with automated regression checks. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0080",
+    "job_id": "J09",
+    "tier": "medium",
+    "name": "Sofia Patel",
+    "skills": [
+      "sql",
+      "data pipelines",
+      "airflow"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "spark",
+      "aws"
+    ],
+    "projects": [
+      {
+        "title": "Data Warehouse ETL Pipeline",
+        "description": "Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Sofia Patel is a Data Engineer professional with 2 years of experience, holding a Associate's in Computer Science. Core skills include sql, data pipelines, airflow. Hands-on experience with spark, aws. Recent work: Led \"Data Warehouse ETL Pipeline\": Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0081",
+    "job_id": "J09",
+    "tier": "weak",
+    "name": "Sofia Kim",
+    "skills": [
+      "sql"
+    ],
+    "experience_years": 0,
+    "education": "Associate's in History",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      },
+      {
+        "title": "Charity Bake Sale",
+        "description": "Coordinated a bake sale that raised funds for a local animal shelter."
+      }
+    ],
+    "resume_text": "Sofia Kim brings 0 years of experience relevant to Data Engineer roles, with a Associate's in History. Technical strengths span sql, alongside practical exposure to standard office tooling. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Led \"Charity Bake Sale\": Coordinated a bake sale that raised funds for a local animal shelter. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0082",
+    "job_id": "J09",
+    "tier": "strong",
+    "name": "Sofia Garcia",
+    "skills": [
+      "spark",
+      "etl",
+      "data pipelines",
+      "python",
+      "airflow",
+      "aws"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "sql",
+      "airflow",
+      "spark",
+      "aws"
+    ],
+    "projects": [
+      {
+        "title": "Real-time Data Pipeline",
+        "description": "Designed real-time data pipelines using spark streaming deployed on aws."
+      },
+      {
+        "title": "Data Warehouse ETL Pipeline",
+        "description": "Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow."
+      },
+      {
+        "title": "Airflow Orchestration Revamp",
+        "description": "Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines."
+      }
+    ],
+    "resume_text": "With 6 years in the field and a Bachelor's in Computer Science, Sofia Garcia has developed expertise in spark, etl, data pipelines, python, airflow, aws. Tooling experience includes sql, airflow, spark, aws. Led \"Real-time Data Pipeline\": Designed real-time data pipelines using spark streaming deployed on aws. Led \"Data Warehouse ETL Pipeline\": Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow. Led \"Airflow Orchestration Revamp\": Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0083",
+    "job_id": "J09",
+    "tier": "strong",
+    "name": "Sofia Chen",
+    "skills": [
+      "spark",
+      "python",
+      "data pipelines",
+      "sql",
+      "etl",
+      "kafka"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "sql",
+      "airflow",
+      "aws",
+      "spark"
+    ],
+    "projects": [
+      {
+        "title": "Airflow Orchestration Revamp",
+        "description": "Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines."
+      },
+      {
+        "title": "Data Warehouse ETL Pipeline",
+        "description": "Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow."
+      }
+    ],
+    "resume_text": "Sofia Chen (Bachelor's in Computer Science) has spent 6 years building skills in spark, python, data pipelines, sql, etl, kafka, complemented by familiarity with sql, airflow, aws, spark. Led \"Airflow Orchestration Revamp\": Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines. Led \"Data Warehouse ETL Pipeline\": Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0084",
+    "job_id": "J09",
+    "tier": "medium",
+    "name": "Sofia Okafor",
+    "skills": [
+      "data pipelines",
+      "sql",
+      "spark",
+      "airflow"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "aws",
+      "airflow"
+    ],
+    "projects": [
+      {
+        "title": "Real-time Data Pipeline",
+        "description": "Designed real-time data pipelines using spark streaming deployed on aws."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Sofia Okafor is a Data Engineer professional with 2 years of experience, holding a Associate's in Computer Science. Core skills include data pipelines, sql, spark, airflow. Hands-on experience with aws, airflow. Recent work: Led \"Real-time Data Pipeline\": Designed real-time data pipelines using spark streaming deployed on aws. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0085",
+    "job_id": "J09",
+    "tier": "weak",
+    "name": "Sofia Nguyen",
+    "skills": [],
+    "experience_years": 1,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Sofia Nguyen brings 1 years of experience relevant to Data Engineer roles, with a Bachelor's in Fine Arts. Technical strengths span general professional and organizational skills, alongside practical exposure to standard office tooling. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0086",
+    "job_id": "J09",
+    "tier": "medium",
+    "name": "Sofia Rossi",
+    "skills": [
+      "python",
+      "etl",
+      "aws"
+    ],
+    "experience_years": 2,
+    "education": "Associate's in Computer Science",
+    "technologies": [
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Airflow Orchestration Revamp",
+        "description": "Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "With 2 years in the field and a Associate's in Computer Science, Sofia Rossi has developed expertise in python, etl, aws. Tooling experience includes sql. Led \"Airflow Orchestration Revamp\": Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0087",
+    "job_id": "J09",
+    "tier": "strong",
+    "name": "Sofia Johnson",
+    "skills": [
+      "spark",
+      "python",
+      "sql",
+      "etl",
+      "aws",
+      "airflow"
+    ],
+    "experience_years": 5,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "aws",
+      "spark",
+      "sql"
+    ],
+    "projects": [
+      {
+        "title": "Data Warehouse ETL Pipeline",
+        "description": "Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow."
+      },
+      {
+        "title": "Real-time Data Pipeline",
+        "description": "Designed real-time data pipelines using spark streaming deployed on aws."
+      },
+      {
+        "title": "Airflow Orchestration Revamp",
+        "description": "Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines."
+      }
+    ],
+    "resume_text": "Sofia Johnson (Bachelor's in Computer Science) has spent 5 years building skills in spark, python, sql, etl, aws, airflow, complemented by familiarity with aws, spark, sql. Led \"Data Warehouse ETL Pipeline\": Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow. Led \"Real-time Data Pipeline\": Designed real-time data pipelines using spark streaming deployed on aws. Led \"Airflow Orchestration Revamp\": Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0088",
+    "job_id": "J09",
+    "tier": "weak",
+    "name": "Sofia Muller",
+    "skills": [
+      "data pipelines"
+    ],
+    "experience_years": 0,
+    "education": "Associate's in History",
+    "technologies": [
+      "spark"
+    ],
+    "projects": [
+      {
+        "title": "Book Club Organizer",
+        "description": "Founded and ran a monthly book club with over 20 regular members."
+      },
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      }
+    ],
+    "resume_text": "Sofia Muller is a Data Engineer professional with 0 years of experience, holding a Associate's in History. Core skills include data pipelines. Hands-on experience with spark. Recent work: Led \"Book Club Organizer\": Founded and ran a monthly book club with over 20 regular members. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0089",
+    "job_id": "J09",
+    "tier": "strong",
+    "name": "Sofia Silva",
+    "skills": [
+      "sql",
+      "data pipelines",
+      "etl",
+      "spark",
+      "aws"
+    ],
+    "experience_years": 6,
+    "education": "Bachelor's in Computer Science",
+    "technologies": [
+      "spark",
+      "aws",
+      "sql",
+      "airflow"
+    ],
+    "projects": [
+      {
+        "title": "Real-time Data Pipeline",
+        "description": "Designed real-time data pipelines using spark streaming deployed on aws."
+      },
+      {
+        "title": "Data Warehouse ETL Pipeline",
+        "description": "Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow."
+      },
+      {
+        "title": "Airflow Orchestration Revamp",
+        "description": "Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines."
+      }
+    ],
+    "resume_text": "Sofia Silva brings 6 years of experience relevant to Data Engineer roles, with a Bachelor's in Computer Science. Technical strengths span sql, data pipelines, etl, spark, aws, alongside practical exposure to spark, aws, sql, airflow. Led \"Real-time Data Pipeline\": Designed real-time data pipelines using spark streaming deployed on aws. Led \"Data Warehouse ETL Pipeline\": Built an etl pipeline in python and spark feeding a sql data warehouse, orchestrated with airflow. Led \"Airflow Orchestration Revamp\": Migrated legacy cron-based etl jobs to airflow-orchestrated data pipelines. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0090",
+    "job_id": "J10",
+    "tier": "weak",
+    "name": "Daniel Patel",
+    "skills": [],
+    "experience_years": 0,
+    "education": "Bachelor's in Business Administration",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Bachelor's in Business Administration, Daniel Patel has developed expertise in general professional and organizational skills. Tooling experience includes standard office tooling. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0091",
+    "job_id": "J10",
+    "tier": "strong",
+    "name": "Daniel Kim",
+    "skills": [
+      "figma",
+      "wireframing",
+      "prototyping",
+      "user research",
+      "usability testing",
+      "design systems"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's in Design / HCI",
+    "technologies": [
+      "figma",
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Checkout Flow Redesign",
+        "description": "Led user research and prototyping in figma to redesign a checkout flow, improving conversion."
+      },
+      {
+        "title": "Usability Testing Program",
+        "description": "Ran a usability testing and user research program informing key ux design decisions."
+      },
+      {
+        "title": "Mobile App Wireframe Set",
+        "description": "Produced wireframing and ux design deliverables for a new mobile app from concept to prototype."
+      }
+    ],
+    "resume_text": "Daniel Kim (Bachelor's in Design / HCI) has spent 3 years building skills in figma, wireframing, prototyping, user research, usability testing, design systems, complemented by familiarity with figma, adobe xd. Led \"Checkout Flow Redesign\": Led user research and prototyping in figma to redesign a checkout flow, improving conversion. Led \"Usability Testing Program\": Ran a usability testing and user research program informing key ux design decisions. Led \"Mobile App Wireframe Set\": Produced wireframing and ux design deliverables for a new mobile app from concept to prototype. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0092",
+    "job_id": "J10",
+    "tier": "strong",
+    "name": "Daniel Garcia",
+    "skills": [
+      "figma",
+      "ux design",
+      "user research",
+      "wireframing",
+      "usability testing"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Design / HCI",
+    "technologies": [
+      "figma",
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Usability Testing Program",
+        "description": "Ran a usability testing and user research program informing key ux design decisions."
+      },
+      {
+        "title": "Checkout Flow Redesign",
+        "description": "Led user research and prototyping in figma to redesign a checkout flow, improving conversion."
+      },
+      {
+        "title": "Mobile App Wireframe Set",
+        "description": "Produced wireframing and ux design deliverables for a new mobile app from concept to prototype."
+      }
+    ],
+    "resume_text": "Daniel Garcia is a UX Designer professional with 2 years of experience, holding a Bachelor's in Design / HCI. Core skills include figma, ux design, user research, wireframing, usability testing. Hands-on experience with figma, adobe xd. Recent work: Led \"Usability Testing Program\": Ran a usability testing and user research program informing key ux design decisions. Led \"Checkout Flow Redesign\": Led user research and prototyping in figma to redesign a checkout flow, improving conversion. Led \"Mobile App Wireframe Set\": Produced wireframing and ux design deliverables for a new mobile app from concept to prototype.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0093",
+    "job_id": "J10",
+    "tier": "medium",
+    "name": "Daniel Chen",
+    "skills": [
+      "figma",
+      "wireframing",
+      "html/css"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Design / HCI",
+    "technologies": [
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Mobile App Wireframe Set",
+        "description": "Produced wireframing and ux design deliverables for a new mobile app from concept to prototype."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "Daniel Chen brings 1 years of experience relevant to UX Designer roles, with a Associate's in Design / HCI. Technical strengths span figma, wireframing, html/css, alongside practical exposure to adobe xd. Led \"Mobile App Wireframe Set\": Produced wireframing and ux design deliverables for a new mobile app from concept to prototype. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0094",
+    "job_id": "J10",
+    "tier": "weak",
+    "name": "Daniel Okafor",
+    "skills": [
+      "wireframing"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in Fine Arts",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      },
+      {
+        "title": "Local Trivia Night Host",
+        "description": "Hosted a weekly trivia night at a neighborhood bar."
+      }
+    ],
+    "resume_text": "With 0 years in the field and a Bachelor's in Fine Arts, Daniel Okafor has developed expertise in wireframing. Tooling experience includes standard office tooling. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Led \"Local Trivia Night Host\": Hosted a weekly trivia night at a neighborhood bar. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0095",
+    "job_id": "J10",
+    "tier": "weak",
+    "name": "Daniel Nguyen",
+    "skills": [
+      "prototyping"
+    ],
+    "experience_years": 0,
+    "education": "Bachelor's in History",
+    "technologies": [],
+    "projects": [
+      {
+        "title": "Youth Soccer Coaching",
+        "description": "Coached a youth soccer team, focusing on teamwork and fundamentals."
+      },
+      {
+        "title": "Community Garden Fundraiser",
+        "description": "Organized a fundraising event for a local community garden initiative."
+      }
+    ],
+    "resume_text": "Daniel Nguyen (Bachelor's in History) has spent 0 years building skills in prototyping, complemented by familiarity with standard office tooling. Led \"Youth Soccer Coaching\": Coached a youth soccer team, focusing on teamwork and fundamentals. Led \"Community Garden Fundraiser\": Organized a fundraising event for a local community garden initiative. Enjoys mentoring teammates and documenting best practices along the way."
+  },
+  {
+    "id": "R0096",
+    "job_id": "J10",
+    "tier": "strong",
+    "name": "Daniel Rossi",
+    "skills": [
+      "figma",
+      "user research",
+      "prototyping",
+      "wireframing",
+      "ux design",
+      "design systems"
+    ],
+    "experience_years": 2,
+    "education": "Bachelor's in Design / HCI",
+    "technologies": [
+      "figma",
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Usability Testing Program",
+        "description": "Ran a usability testing and user research program informing key ux design decisions."
+      },
+      {
+        "title": "Mobile App Wireframe Set",
+        "description": "Produced wireframing and ux design deliverables for a new mobile app from concept to prototype."
+      }
+    ],
+    "resume_text": "Daniel Rossi is a UX Designer professional with 2 years of experience, holding a Bachelor's in Design / HCI. Core skills include figma, user research, prototyping, wireframing, ux design, design systems. Hands-on experience with figma, adobe xd. Recent work: Led \"Usability Testing Program\": Ran a usability testing and user research program informing key ux design decisions. Led \"Mobile App Wireframe Set\": Produced wireframing and ux design deliverables for a new mobile app from concept to prototype.. Known for clear communication and reliable delivery in cross-functional teams."
+  },
+  {
+    "id": "R0097",
+    "job_id": "J10",
+    "tier": "strong",
+    "name": "Daniel Johnson",
+    "skills": [
+      "ux design",
+      "prototyping",
+      "wireframing",
+      "user research",
+      "html/css",
+      "usability testing",
+      "design systems"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor's in Design / HCI",
+    "technologies": [
+      "adobe xd",
+      "figma"
+    ],
+    "projects": [
+      {
+        "title": "Usability Testing Program",
+        "description": "Ran a usability testing and user research program informing key ux design decisions."
+      },
+      {
+        "title": "Checkout Flow Redesign",
+        "description": "Led user research and prototyping in figma to redesign a checkout flow, improving conversion."
+      },
+      {
+        "title": "Mobile App Wireframe Set",
+        "description": "Produced wireframing and ux design deliverables for a new mobile app from concept to prototype."
+      }
+    ],
+    "resume_text": "Daniel Johnson brings 4 years of experience relevant to UX Designer roles, with a Bachelor's in Design / HCI. Technical strengths span ux design, prototyping, wireframing, user research, html/css, usability testing, design systems, alongside practical exposure to adobe xd, figma. Led \"Usability Testing Program\": Ran a usability testing and user research program informing key ux design decisions. Led \"Checkout Flow Redesign\": Led user research and prototyping in figma to redesign a checkout flow, improving conversion. Led \"Mobile App Wireframe Set\": Produced wireframing and ux design deliverables for a new mobile app from concept to prototype. Comfortable working in fast-paced, collaborative environments."
+  },
+  {
+    "id": "R0098",
+    "job_id": "J10",
+    "tier": "medium",
+    "name": "Daniel Muller",
+    "skills": [
+      "wireframing",
+      "prototyping",
+      "user research"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Design / HCI",
+    "technologies": [
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Checkout Flow Redesign",
+        "description": "Led user research and prototyping in figma to redesign a checkout flow, improving conversion."
+      },
+      {
+        "title": "Travel Blog",
+        "description": "Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia."
+      }
+    ],
+    "resume_text": "With 1 years in the field and a Associate's in Design / HCI, Daniel Muller has developed expertise in wireframing, prototyping, user research. Tooling experience includes adobe xd. Led \"Checkout Flow Redesign\": Led user research and prototyping in figma to redesign a checkout flow, improving conversion. Led \"Travel Blog\": Wrote and maintained a travel blog chronicling backpacking trips across Southeast Asia. Consistently focused on measurable outcomes and continuous improvement."
+  },
+  {
+    "id": "R0099",
+    "job_id": "J10",
+    "tier": "medium",
+    "name": "Daniel Silva",
+    "skills": [
+      "ux design",
+      "prototyping",
+      "user research",
+      "html/css"
+    ],
+    "experience_years": 1,
+    "education": "Associate's in Design / HCI",
+    "technologies": [
+      "adobe xd"
+    ],
+    "projects": [
+      {
+        "title": "Usability Testing Program",
+        "description": "Ran a usability testing and user research program informing key ux design decisions."
+      },
+      {
+        "title": "Home Renovation Project",
+        "description": "Planned and executed a full kitchen renovation on a fixed budget."
+      }
+    ],
+    "resume_text": "Daniel Silva (Associate's in Design / HCI) has spent 1 years building skills in ux design, prototyping, user research, html/css, complemented by familiarity with adobe xd. Led \"Usability Testing Program\": Ran a usability testing and user research program informing key ux design decisions. Led \"Home Renovation Project\": Planned and executed a full kitchen renovation on a fixed budget. Enjoys mentoring teammates and documenting best practices along the way."
+  }
+]
