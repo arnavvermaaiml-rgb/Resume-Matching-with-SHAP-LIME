@@ -1,6 +1,32 @@
+# --- Python virtual environments ---
 venv/
 .venv/
+env/
+
+# --- Python cache files ---
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+*.pyo
+
+# --- Jupyter notebooks ---
+.ipynb_checkpoints/
+
+# --- Secrets (API keys, passwords) ---
 .env
+
+# --- Downloaded embedding model weights ---
+models/
+*.bin
+*.safetensors
+*.pt
+
+# --- Big generated files ---
+*.zip
+*.h5
+
+# --- Editor and OS junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
